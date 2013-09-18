@@ -1,4 +1,5 @@
-<?php
+<?php namespace GerbenJacobs;
+
 class RWS {
 	private $url_codes = 'http://www.rws.nl/rws/opendata/lmw-par-codes.csv';
 	private $url_locations = 'http://rws.nl/system/externen/meetnet-repository.aspx';
@@ -71,7 +72,7 @@ class RWS {
 	
 	private function extractLocationData() {
 		$xml = file_get_contents($this->url_locations);
-		$xmldata = new SimpleXMLElement($xml, true);
+		$xmldata = new \SimpleXMLElement($xml, true);
 		foreach ($xmldata->waterdata as $location) {
 			$this->locationdata[(string) $location->locatie] = (array) $location;
 		}
@@ -102,7 +103,7 @@ class RWS {
 	
 	private function stringToTime($string) {
 		// Not even strtotime() can handle this.
-		return DateTime::createFromFormat('j-M-y G:i+', $string, new DateTimeZone('Europe/Amsterdam'));
+		return \DateTime::createFromFormat('j-M-y G:i+', $string, new \DateTimeZone('Europe/Amsterdam'));
 	}
 	
 	private function combineData() {
@@ -127,7 +128,7 @@ class RWS {
 			$measurements = array();
 			foreach ($this->measurements[$line] as $idx => $measurement) {
 				if ($measurement) {
-					$time_start->add(new DateInterval('PT10M'));
+					$time_start->add(new \DateInterval('PT10M'));
 					$measurements[] = array(
 						'time' => $time_start->format('c'),
 						'measurement' => $measurement,
