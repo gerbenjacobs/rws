@@ -5,8 +5,8 @@ class RWS {
 	private $url_current_measurements = 'https://www.rijkswaterstaat.nl/rws/opendata/meetdata/meetdata.zip';
 	private $cache_expiration = 600; // 5 minutes
 	private $cache_expiration_location = 43200; // 12 hours
-	private $zipfile = 'meetdata.zip';
-	private $locationfile = 'locations.xml';
+	private $zipfile = 'cache/meetdata.zip';
+	private $locationfile = 'cache/locations.xml';
 	private $zippables;
 	private $locationdata;
 	
