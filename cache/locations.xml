@@ -1,0 +1,6243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<waterdata>
+		<locatie_omschrijving>A12 Platform 1</locatie_omschrijving>
+		<locatie>A121</locatie>
+		<x>55.416663</x>
+		<y>3.816671</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>A12 Platform 2</locatie_omschrijving>
+		<locatie>A122</locatie>
+		<x>55.416663</x>
+		<y>3.816671</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>A2 boei</locatie_omschrijving>
+		<locatie>A2BI</locatie>
+		<x>51.36583</x>
+		<y>3.12861</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Aadorp</locatie_omschrijving>
+		<locatie>AADP</locatie>
+		<x>52.372553</x>
+		<y>6.633096</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Aberdeen</locatie_omschrijving>
+		<locatie>ABER</locatie>
+		<x>57.143891</x>
+		<y>-2.080273</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Alblasserdam</locatie_omschrijving>
+		<locatie>ALBL</locatie>
+		<x>51.856603</x>
+		<y>4.656147</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Almen</locatie_omschrijving>
+		<locatie>ALME</locatie>
+		<x>52.166084</x>
+		<y>6.284695</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Altenahr - Ahr</locatie_omschrijving>
+		<locatie>ALTE</locatie>
+		<x>50.516665</x>
+		<y>6.983333</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Amay</locatie_omschrijving>
+		<locatie>AMAY</locatie>
+		<x>50.533333</x>
+		<y>5.316669</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>wantij Ameland</locatie_omschrijving>
+		<locatie>AMEW</locatie>
+		<x>53.42333</x>
+		<y>5.88833</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Amerongen - boven</locatie_omschrijving>
+		<locatie>AMRB</locatie>
+		<x>51.97614</x>
+		<y>5.41194</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Amerongen - boven</locatie_omschrijving>
+		<locatie>AMRB</locatie>
+		<x>51.97507</x>
+		<y>5.41194</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Amerongen - beneden</locatie_omschrijving>
+		<locatie>AMRO</locatie>
+		<x>51.97486</x>
+		<y>5.40453</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Anasuria 1</locatie_omschrijving>
+		<locatie>ANA1</locatie>
+		<x>57.25475</x>
+		<y>0.80163</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Andernach - Rhein</locatie_omschrijving>
+		<locatie>ANDE</locatie>
+		<x>50.449998</x>
+		<y>7.399991</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Angleur</locatie_omschrijving>
+		<locatie>ANGL</locatie>
+		<x>50.599998</x>
+		<y>5.583337</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Antwerps kanaalpand</locatie_omschrijving>
+		<locatie>ANKA</locatie>
+		<x>51.40264</x>
+		<y>4.23856</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Antwerps kanaalpand - boven</locatie_omschrijving>
+		<locatie>ANKAb</locatie>
+		<x>51.40264</x>
+		<y>4.23856</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Antwerps kanaalpand - onder</locatie_omschrijving>
+		<locatie>ANKAo</locatie>
+		<x>51.40264</x>
+		<y>4.23856</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Antwerpen - Schelde</locatie_omschrijving>
+		<locatie>ANTW</locatie>
+		<x>51.22843</x>
+		<y>4.40222</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Archem - beneden (Regge)</locatie_omschrijving>
+		<locatie>ARBR</locatie>
+		<x>52.46886</x>
+		<y>6.45158</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Archem (Linderbeek)</locatie_omschrijving>
+		<locatie>ARLB</locatie>
+		<x>52.469439</x>
+		<y>6.45343</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Arnhem</locatie_omschrijving>
+		<locatie>ARNH</locatie>
+		<x>51.97524</x>
+		<y>5.91232</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Aukfield</locatie_omschrijving>
+		<locatie>AUK</locatie>
+		<x>56.39829</x>
+		<y>2.065674</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Avonmouth</locatie_omschrijving>
+		<locatie>AVON</locatie>
+		<x>51.507779</x>
+		<y>-2.712778</y>
+		<zoom>7</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>AWG Platform</locatie_omschrijving>
+		<locatie>AWG1</locatie>
+		<x>53.49164</x>
+		<y>5.94114</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Baalhoek - Westerschelde</locatie_omschrijving>
+		<locatie>BAAL</locatie>
+		<x>51.365841</x>
+		<y>4.102372</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Baalhoek - boven - Westerschelde</locatie_omschrijving>
+		<locatie>BAALb</locatie>
+		<x>51.365841</x>
+		<y>4.102372</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Baalhoek - onder - Westerschelde</locatie_omschrijving>
+		<locatie>BAALo</locatie>
+		<x>51.365841</x>
+		<y>4.102372</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bamberg - Main/Donaukanal</locatie_omschrijving>
+		<locatie>BAMB</locatie>
+		<x>49.883329</x>
+		<y>10.883335</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Barmouth</locatie_omschrijving>
+		<locatie>BARM</locatie>
+		<x>52.719168</x>
+		<y>-4.044997</y>
+		<zoom>7</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bath (golfproject: NAP -1m)</locatie_omschrijving>
+		<locatie>BAT1</locatie>
+		<x>51.39877</x>
+		<y>4.2102</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bath - subloc (golfproject: NAP -1m)</locatie_omschrijving>
+		<locatie>BAT1b</locatie>
+		<x>51.39877</x>
+		<y>4.2102</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bath (golfproject: NAP -2m)</locatie_omschrijving>
+		<locatie>BAT2</locatie>
+		<x>51.39878</x>
+		<y>4.21014</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bath - subloc (golfproject: NAP -2m) </locatie_omschrijving>
+		<locatie>BAT2b</locatie>
+		<x>51.39878</x>
+		<y>4.21014</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bath - Westerschelde</locatie_omschrijving>
+		<locatie>BATH</locatie>
+		<x>51.39878</x>
+		<y>4.21014</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bath - Westerschelde tijdelijk</locatie_omschrijving>
+		<locatie>BATHZ</locatie>
+		<x>51.39878</x>
+		<y>4.21014</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bath - Spuikanaal zuid</locatie_omschrijving>
+		<locatie>BATS</locatie>
+		<x>51.404</x>
+		<y>4.23625</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse brug - Deltan-inlaat</locatie_omschrijving>
+		<locatie>BBDT</locatie>
+		<x>51.42503</x>
+		<y>4.230555</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse brug - Deltan-inlaat - boven</locatie_omschrijving>
+		<locatie>BBDTb</locatie>
+		<x>51.42503</x>
+		<y>4.230555</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse brug - Deltan-inlaat - onder</locatie_omschrijving>
+		<locatie>BBDTo</locatie>
+		<x>51.42503</x>
+		<y>4.230555</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bergsediepsluis</locatie_omschrijving>
+		<locatie>BDSL</locatie>
+		<x>51.51394</x>
+		<y>4.16156</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bergsediepsluis (wind)</locatie_omschrijving>
+		<locatie>BDWI</locatie>
+		<x>51.51019</x>
+		<y>4.17389</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bergsediepsluis (wind)</locatie_omschrijving>
+		<locatie>BDWIb</locatie>
+		<x>51.51019</x>
+		<y>4.17389</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Belfeld - boven</locatie_omschrijving>
+		<locatie>BELB</locatie>
+		<x>51.31867</x>
+		<y>6.1132</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Belfeld - beneden</locatie_omschrijving>
+		<locatie>BELF</locatie>
+		<x>51.33553</x>
+		<y>6.11803</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Beneluxhaven</locatie_omschrijving>
+		<locatie>BENE</locatie>
+		<x>51.94305</x>
+		<y>4.12805</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bernisse Zuidland NAP -3.0 m</locatie_omschrijving>
+		<locatie>BER30</locatie>
+		<x>51.80555</x>
+		<y>4.28292</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Berkhout</locatie_omschrijving>
+		<locatie>BERK</locatie>
+		<x>52.64267</x>
+		<y>4.97869</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bernisse Zuidland</locatie_omschrijving>
+		<locatie>BERN</locatie>
+		<x>51.80555</x>
+		<y>4.28292</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwershavense Gat 2</locatie_omschrijving>
+		<locatie>BG2</locatie>
+		<x>51.766527</x>
+		<y>3.621747</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwershavense Gat 2</locatie_omschrijving>
+		<locatie>BG02</locatie>
+		<x>51.766527</x>
+		<y>3.621747</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwershavense Gat 2 - boven</locatie_omschrijving>
+		<locatie>BG2b</locatie>
+		<x>51.766527</x>
+		<y>3.621747</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwershavense Gat 2 - onder</locatie_omschrijving>
+		<locatie>BG2o</locatie>
+		<x>51.766527</x>
+		<y>3.621747</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwershavense Gat 8</locatie_omschrijving>
+		<locatie>BG8</locatie>
+		<x>51.74644</x>
+		<y>3.81472</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwershavense Gat 8</locatie_omschrijving>
+		<locatie>BG8A</locatie>
+		<x>51.74644</x>
+		<y>3.81472</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwershavense Gat 8 - boven</locatie_omschrijving>
+		<locatie>BG8b</locatie>
+		<x>51.74644</x>
+		<y>3.81472</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwershavense Gat 8 - onder</locatie_omschrijving>
+		<locatie>BG8o</locatie>
+		<x>51.74644</x>
+		<y>3.81472</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Berghaven H v Holland</locatie_omschrijving>
+		<locatie>BGH1</locatie>
+		<x>51.97752</x>
+		<y>4.11974</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bingen - Rhein</locatie_omschrijving>
+		<locatie>BING</locatie>
+		<x>49.966666</x>
+		<y>7.900001</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Belfeld- beneden</locatie_omschrijving>
+		<locatie>BLFTO</locatie>
+		<x>51.33553</x>
+		<y>6.11803</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maaseik (B)</locatie_omschrijving>
+		<locatie>BMAAE</locatie>
+		<x>51.09492</x>
+		<y>5.80144</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Braakman haven buitenzijde</locatie_omschrijving>
+		<locatie>BMBD</locatie>
+		<x>51.34889</x>
+		<y>3.73167</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Braakmanhaven</locatie_omschrijving>
+		<locatie>BMHV</locatie>
+		<x>51.355527</x>
+		<y>3.759849</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bommenede 1</locatie_omschrijving>
+		<locatie>BOM1</locatie>
+		<x>51.73871</x>
+		<y>3.974295</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bommenede 1 - boven</locatie_omschrijving>
+		<locatie>BOM1b</locatie>
+		<x>51.73871</x>
+		<y>3.974295</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bommenede 1 - onder</locatie_omschrijving>
+		<locatie>BOM1o</locatie>
+		<x>51.73871</x>
+		<y>3.974295</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Beerenplaat NAP -2.0 m</locatie_omschrijving>
+		<locatie>BOM20</locatie>
+		<x>51.839578</x>
+		<y>4.420913</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bonn - Rhein</locatie_omschrijving>
+		<locatie>BONN</locatie>
+		<x>50.737775</x>
+		<y>7.108609</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Borgharen dorp- Temp</locatie_omschrijving>
+		<locatie>BORB</locatie>
+		<x>50.86894</x>
+		<y>5.69797</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Borgharen dorp</locatie_omschrijving>
+		<locatie>BORD</locatie>
+		<x>50.87297</x>
+		<y>5.69153</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Borgharen dorp - backup</locatie_omschrijving>
+		<locatie>BORDB</locatie>
+		<x>50.87297</x>
+		<y>5.69153</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Borgharen - Julianakanaal</locatie_omschrijving>
+		<locatie>BORJ</locatie>
+		<x>50.86908</x>
+		<y>5.69922</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Borssele</locatie_omschrijving>
+		<locatie>BORS</locatie>
+		<x>51.411393</x>
+		<y>3.757885</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Borssele - subloc</locatie_omschrijving>
+		<locatie>BORSb</locatie>
+		<x>51.411393</x>
+		<y>3.757885</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Botlekbrug</locatie_omschrijving>
+		<locatie>BOTB</locatie>
+		<x>51.87167</x>
+		<y>4.33139</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Botlek</locatie_omschrijving>
+		<locatie>BOTL</locatie>
+		<x>51.895</x>
+		<y>4.30778</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bournemouth</locatie_omschrijving>
+		<locatie>BOUR</locatie>
+		<x>50.714442</x>
+		<y>-1.874726</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brienenoordbrug NAP -2.5 m</locatie_omschrijving>
+		<locatie>BRB25</locatie>
+		<x>51.905252</x>
+		<y>4.542472</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brienenoordbrug NAP -6.5 m</locatie_omschrijving>
+		<locatie>BRB65</locatie>
+		<x>51.905252</x>
+		<y>4.542472</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Breskens - Handelshaven</locatie_omschrijving>
+		<locatie>BRES</locatie>
+		<x>51.401503</x>
+		<y>3.548116</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Breskens - Handelshaven</locatie_omschrijving>
+		<locatie>BRESb</locatie>
+		<x>51.401503</x>
+		<y>3.548116</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brienenoordbrug</locatie_omschrijving>
+		<locatie>BRIE</locatie>
+		<x>51.905252</x>
+		<y>4.542472</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Borkum noord</locatie_omschrijving>
+		<locatie>BRKN1</locatie>
+		<x>53.75154</x>
+		<y>6.62262</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwersdam 1 (buiten)</locatie_omschrijving>
+		<locatie>BRO1</locatie>
+		<x>51.74858</x>
+		<y>3.82583</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwersdam 2 (buiten: zuid)</locatie_omschrijving>
+		<locatie>BRO2</locatie>
+		<x>51.74858</x>
+		<y>3.82583</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwersdam 3 (binnen)</locatie_omschrijving>
+		<locatie>BRO3</locatie>
+		<x>51.748735</x>
+		<y>3.827066</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwersdam 4 (binnen)</locatie_omschrijving>
+		<locatie>BRO4</locatie>
+		<x>51.748735</x>
+		<y>3.827066</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwersdam 5 (buiten)</locatie_omschrijving>
+		<locatie>BRO5</locatie>
+		<x>51.74858</x>
+		<y>3.82583</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Brouwersdam 6 (binnen: zuid)</locatie_omschrijving>
+		<locatie>BRO6</locatie>
+		<x>51.748735</x>
+		<y>3.827066</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Breesem</locatie_omschrijving>
+		<locatie>BRS1</locatie>
+		<x>53.11597</x>
+		<y>5.04213</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bovensas</locatie_omschrijving>
+		<locatie>BSAS</locatie>
+		<x>51.59667</x>
+		<y>4.375474</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuisluis tijdelijk</locatie_omschrijving>
+		<locatie>BSBS1</locatie>
+		<x>51.3931</x>
+		<y>4.23458</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuisluis tijdelijk</locatie_omschrijving>
+		<locatie>BSBS2</locatie>
+		<x>51.3931</x>
+		<y>4.23458</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuisluis tijdelijk</locatie_omschrijving>
+		<locatie>BSBS3</locatie>
+		<x>51.3931</x>
+		<y>4.23458</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuisluis tijdelijk</locatie_omschrijving>
+		<locatie>BSBS4</locatie>
+		<x>51.3931</x>
+		<y>4.23458</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuisluis tijdelijk</locatie_omschrijving>
+		<locatie>BSBS5</locatie>
+		<x>51.3931</x>
+		<y>4.23458</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuisluis tijdelijk</locatie_omschrijving>
+		<locatie>BSBS6</locatie>
+		<x>51.3931</x>
+		<y>4.23458</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuisluis tijdelijk</locatie_omschrijving>
+		<locatie>BSBSD</locatie>
+		<x>51.3931</x>
+		<y>4.23458</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuisluis tijdelijk</locatie_omschrijving>
+		<locatie>BSBSW</locatie>
+		<x>51.3931</x>
+		<y>4.23458</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuisluis tijdelijk</locatie_omschrijving>
+		<locatie>BSBSZ</locatie>
+		<x>51.3931</x>
+		<y>4.23458</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Buggenum</locatie_omschrijving>
+		<locatie>BUGG</locatie>
+		<x>51.23028</x>
+		<y>5.99525</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Buitenhuizen</locatie_omschrijving>
+		<locatie>BUIT</locatie>
+		<x>52.433277</x>
+		<y>4.72271</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bunde</locatie_omschrijving>
+		<locatie>BUND</locatie>
+		<x>50.90636</x>
+		<y>5.70897</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bol van Heist</locatie_omschrijving>
+		<locatie>BVHE</locatie>
+		<x>51.379443</x>
+		<y>3.207781</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Cadzand: boei</locatie_omschrijving>
+		<locatie>CADW</locatie>
+		<x>51.390145</x>
+		<y>3.3687</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Cadzand</locatie_omschrijving>
+		<locatie>CADZ</locatie>
+		<x>51.37989</x>
+		<y>3.37906</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Cadzand tijdelijk</locatie_omschrijving>
+		<locatie>CADZZ</locatie>
+		<x>51.37989</x>
+		<y>3.37906</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Cadzand - subloc (sub-knooppunt)</locatie_omschrijving>
+		<locatie>CAGOb</locatie>
+		<x>51.37721</x>
+		<y>3.38221</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Cadzand (wind+golfproject)</locatie_omschrijving>
+		<locatie>CAWI</locatie>
+		<x>51.37989</x>
+		<y>3.37906</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Cadzand - subloc (wind+golfproject)</locatie_omschrijving>
+		<locatie>CAWIb</locatie>
+		<x>51.37989</x>
+		<y>3.37906</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Chaudfontaine</locatie_omschrijving>
+		<locatie>CHAU</locatie>
+		<x>50.583707</x>
+		<y>5.632854</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Chooz</locatie_omschrijving>
+		<locatie>CHOO</locatie>
+		<x>50.099999</x>
+		<y>4.799994</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Cochem - Mosel</locatie_omschrijving>
+		<locatie>COCH</locatie>
+		<x>50.144441</x>
+		<y>7.168888</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Cromer</locatie_omschrijving>
+		<locatie>CROM</locatie>
+		<x>52.934168</x>
+		<y>1.301671</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Culemborg - brug</locatie_omschrijving>
+		<locatie>CULB</locatie>
+		<x>51.96017</x>
+		<y>5.21475</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Cuxhaven - derdenlocatie</locatie_omschrijving>
+		<locatie>CUXH</locatie>
+		<x>53.867</x>
+		<y>8.717</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>D15 Platform 1</locatie_omschrijving>
+		<locatie>D151</locatie>
+		<x>54.316663</x>
+		<y>2.933333</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>D15 Platform 2</locatie_omschrijving>
+		<locatie>D152</locatie>
+		<x>54.316663</x>
+		<y>2.933333</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>de Kooy</locatie_omschrijving>
+		<locatie>DEKO</locatie>
+		<x>52.923507</x>
+		<y>4.786482</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Delden - boven</locatie_omschrijving>
+		<locatie>DELB</locatie>
+		<x>52.24703</x>
+		<y>6.67947</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Delden Sluishefdeur - boven</locatie_omschrijving>
+		<locatie>DELHB</locatie>
+		<x>52.24706</x>
+		<y>6.67875</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Delden - beneden</locatie_omschrijving>
+		<locatie>DELO</locatie>
+		<x>52.24569</x>
+		<y>6.676</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Den Helder</locatie_omschrijving>
+		<locatie>DENH</locatie>
+		<x>52.96358</x>
+		<y>4.779</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Den Helder - backup</locatie_omschrijving>
+		<locatie>DENHB</locatie>
+		<x>52.96378</x>
+		<y>4.74381</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Deurloo</locatie_omschrijving>
+		<locatie>DEUR</locatie>
+		<x>51.5027</x>
+		<y>3.24204</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Deventer</locatie_omschrijving>
+		<locatie>DEVE</locatie>
+		<x>52.2517</x>
+		<y>6.15278</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Diemen Amsterdam-Rijnkanaal</locatie_omschrijving>
+		<locatie>DIE14</locatie>
+		<x>52.349384</x>
+		<y>4.983598</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Dintelhaven</locatie_omschrijving>
+		<locatie>DINT</locatie>
+		<x>51.96111</x>
+		<y>4.10667</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Delfzijl</locatie_omschrijving>
+		<locatie>DLFZ</locatie>
+		<x>53.32672</x>
+		<y>6.93336</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Delfzijl - backup</locatie_omschrijving>
+		<locatie>DLFZB</locatie>
+		<x>53.32672</x>
+		<y>6.93336</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Dodewaard</locatie_omschrijving>
+		<locatie>DODE</locatie>
+		<x>51.9005</x>
+		<y>5.630527</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Doesburg - brug</locatie_omschrijving>
+		<locatie>DOES</locatie>
+		<x>52.01958</x>
+		<y>6.13135</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Delta Oude Maas</locatie_omschrijving>
+		<locatie>DOMA</locatie>
+		<x>51.843281</x>
+		<y>4.392927</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Doorslag</locatie_omschrijving>
+		<locatie>DOOR</locatie>
+		<x>52.03163</x>
+		<y>5.09031</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Doorslag</locatie_omschrijving>
+		<locatie>DOOR</locatie>
+		<x>52.0323</x>
+		<y>5.089851</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Domburger Rassen</locatie_omschrijving>
+		<locatie>DORA</locatie>
+		<x>51.61943</x>
+		<y>3.39907</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Dordrecht</locatie_omschrijving>
+		<locatie>DORD</locatie>
+		<x>51.81933</x>
+		<y>4.67065</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Dover</locatie_omschrijving>
+		<locatie>DOVR</locatie>
+		<x>51.114447</x>
+		<y>1.322504</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Drempel van Borssele</locatie_omschrijving>
+		<locatie>DRBO</locatie>
+		<x>51.407975</x>
+		<y>3.705222</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Driel - boven</locatie_omschrijving>
+		<locatie>DRIB</locatie>
+		<x>51.96575</x>
+		<y>5.80969</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Driel - boven</locatie_omschrijving>
+		<locatie>DRIB</locatie>
+		<x>51.96583</x>
+		<y>5.80917</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Driel - boven</locatie_omschrijving>
+		<locatie>DRIB</locatie>
+		<x>51.96325</x>
+		<y>5.80728</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Driel - beneden</locatie_omschrijving>
+		<locatie>DRIO</locatie>
+		<x>51.96333</x>
+		<y>5.80275</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Dintelsas</locatie_omschrijving>
+		<locatie>DSAS</locatie>
+		<x>51.652692</x>
+		<y>4.377836</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 0</locatie_omschrijving>
+		<locatie>DU000</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 15</locatie_omschrijving>
+		<locatie>DU015</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 30</locatie_omschrijving>
+		<locatie>DU030</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 45</locatie_omschrijving>
+		<locatie>DU045</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 60</locatie_omschrijving>
+		<locatie>DU060</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 75</locatie_omschrijving>
+		<locatie>DU075</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 90</locatie_omschrijving>
+		<locatie>DU090</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 105</locatie_omschrijving>
+		<locatie>DU105</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 120</locatie_omschrijving>
+		<locatie>DU120</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 135</locatie_omschrijving>
+		<locatie>DU135</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 150</locatie_omschrijving>
+		<locatie>DU150</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 165</locatie_omschrijving>
+		<locatie>DU165</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 180</locatie_omschrijving>
+		<locatie>DU180</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 195</locatie_omschrijving>
+		<locatie>DU195</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 210</locatie_omschrijving>
+		<locatie>DU210</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 225</locatie_omschrijving>
+		<locatie>DU225</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 240</locatie_omschrijving>
+		<locatie>DU240</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 255</locatie_omschrijving>
+		<locatie>DU255</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 270</locatie_omschrijving>
+		<locatie>DU270</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 285</locatie_omschrijving>
+		<locatie>DU285</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Duivelseiland 300</locatie_omschrijving>
+		<locatie>DU300</locatie>
+		<x>51.803042</x>
+		<y>4.639463</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Dusseldorf - Rhein</locatie_omschrijving>
+		<locatie>DUSS</locatie>
+		<x>51.228055</x>
+		<y>6.77111</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eurogeul DWE</locatie_omschrijving>
+		<locatie>DWE1</locatie>
+		<x>51.948337</x>
+		<y>3.000282</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Dantziggat</locatie_omschrijving>
+		<locatie>DZGT</locatie>
+		<x>53.37896</x>
+		<y>5.77201</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eurogeul E13</locatie_omschrijving>
+		<locatie>E131</locatie>
+		<x>52.009184</x>
+		<y>3.741803</y>
+		<zoom>7</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eurogeul E5</locatie_omschrijving>
+		<locatie>E51</locatie>
+		<x>51.984442</x>
+		<y>3.426671</y>
+		<zoom>7</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Echt</locatie_omschrijving>
+		<locatie>ECHT</locatie>
+		<x>51.1065</x>
+		<y>5.84978</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Edam </locatie_omschrijving>
+		<locatie>EDAM</locatie>
+		<x>52.51908</x>
+		<y>5.07519</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eefde - boven</locatie_omschrijving>
+		<locatie>EEFB</locatie>
+		<x>52.16042</x>
+		<y>6.23772</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eefde - beneden</locatie_omschrijving>
+		<locatie>EEFD</locatie>
+		<x>52.15906</x>
+		<y>6.22836</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eefde aflaatwerk oud - hefdeur noord</locatie_omschrijving>
+		<locatie>EEFHN</locatie>
+		<x>52.15986</x>
+		<y>6.23394</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eefde aflaatwerk nieuw - hefdeur oost</locatie_omschrijving>
+		<locatie>EEFHO</locatie>
+		<x>52.15986</x>
+		<y>6.23394</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eefde aflaatwerk nieuw - hefdeur west</locatie_omschrijving>
+		<locatie>EEFHW</locatie>
+		<x>52.15986</x>
+		<y>6.23394</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eefde aflaatwerk oud - hefdeur zuid</locatie_omschrijving>
+		<locatie>EEFHZ</locatie>
+		<x>52.15986</x>
+		<y>6.23394</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eefde - beneden</locatie_omschrijving>
+		<locatie>EEFO</locatie>
+		<x>52.15906</x>
+		<y>6.22836</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eemhaven</locatie_omschrijving>
+		<locatie>EEMH</locatie>
+		<x>51.88917</x>
+		<y>4.4175</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eijsden - grens</locatie_omschrijving>
+		<locatie>EIJS</locatie>
+		<x>50.75822</x>
+		<y>5.68361</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eijsden grens - backup</locatie_omschrijving>
+		<locatie>EIJSB</locatie>
+		<x>50.75822</x>
+		<y>5.68361</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eisden Mazenhove</locatie_omschrijving>
+		<locatie>EISM</locatie>
+		<x>50.956473</x>
+		<y>5.737303</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eisden Mazenhove MG</locatie_omschrijving>
+		<locatie>EISMG</locatie>
+		<x>50.97842</x>
+		<y>5.73517</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Elburgerbrug</locatie_omschrijving>
+		<locatie>ELBB</locatie>
+		<x>52.457007</x>
+		<y>5.817245</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eierlandse Gat</locatie_omschrijving>
+		<locatie>ELD1</locatie>
+		<x>53.276189</x>
+		<y>4.660365</y>
+		<zoom>7</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Elsloo</locatie_omschrijving>
+		<locatie>ELSL</locatie>
+		<x>50.957943</x>
+		<y>5.755816</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Emshorn</locatie_omschrijving>
+		<locatie>EMH1</locatie>
+		<x>53.492349</x>
+		<y>6.840949</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Emmerich Rhein</locatie_omschrijving>
+		<locatie>EMME</locatie>
+		<x>51.82862</x>
+		<y>6.248036</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eemshaven</locatie_omschrijving>
+		<locatie>EMSH</locatie>
+		<x>53.44775</x>
+		<y>6.82911</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eemshaven</locatie_omschrijving>
+		<locatie>EMSH</locatie>
+		<x>53.451</x>
+		<y>6.83222</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Europlatform 1</locatie_omschrijving>
+		<locatie>EPL</locatie>
+		<x>51.997807</x>
+		<y>3.275077</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Europlatform 1</locatie_omschrijving>
+		<locatie>EPL1</locatie>
+		<x>51.997807</x>
+		<y>3.275077</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Europlatform 2</locatie_omschrijving>
+		<locatie>EPL2</locatie>
+		<x>51.997807</x>
+		<y>3.275077</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Europlatform 3</locatie_omschrijving>
+		<locatie>EPL3</locatie>
+		<x>51.997807</x>
+		<y>3.275077</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Europlatform 4</locatie_omschrijving>
+		<locatie>EPL4</locatie>
+		<x>51.997807</x>
+		<y>3.275077</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Eurogeul</locatie_omschrijving>
+		<locatie>EUGL</locatie>
+		<x>51.997807</x>
+		<y>3.275077</y>
+		<zoom>7</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Europahaven</locatie_omschrijving>
+		<locatie>EURH</locatie>
+		<x>51.962167</x>
+		<y>4.029139</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>F16 Platform 1</locatie_omschrijving>
+		<locatie>F161</locatie>
+		<x>54.116669</x>
+		<y>4.01667</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>F16 Platform 2</locatie_omschrijving>
+		<locatie>F162</locatie>
+		<x>54.116669</x>
+		<y>4.01667</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>F3 Platform</locatie_omschrijving>
+		<locatie>F31</locatie>
+		<x>54.849995</x>
+		<y>4.716658</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>F3 Platform</locatie_omschrijving>
+		<locatie>F32</locatie>
+		<x>54.849995</x>
+		<y>4.716658</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>F3 Platform</locatie_omschrijving>
+		<locatie>F33</locatie>
+		<x>54.849995</x>
+		<y>4.716658</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Fishguard</locatie_omschrijving>
+		<locatie>FISH</locatie>
+		<x>52.013056</x>
+		<y>-4.983617</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Franfurt Osthafen - Rhein</locatie_omschrijving>
+		<locatie>FRAN</locatie>
+		<x>50.113886</x>
+		<y>8.716669</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Fremersdorf - Saar</locatie_omschrijving>
+		<locatie>FREM</locatie>
+		<x>49.399996</x>
+		<y>6.649995</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Friedrichsthal - Wied</locatie_omschrijving>
+		<locatie>FRIE</locatie>
+		<x>50.516644</x>
+		<y>7.416058</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Galgenkampsbrug</locatie_omschrijving>
+		<locatie>GALG</locatie>
+		<x>52.702061</x>
+		<y>6.185115</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Galgeplaat</locatie_omschrijving>
+		<locatie>GAPL</locatie>
+		<x>51.550941</x>
+		<y>3.936116</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Gendron</locatie_omschrijving>
+		<locatie>GEND</locatie>
+		<x>50.212225</x>
+		<y>4.797505</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Genemuiden</locatie_omschrijving>
+		<locatie>GENE</locatie>
+		<x>52.63303</x>
+		<y>6.03233</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Genemuiden</locatie_omschrijving>
+		<locatie>GENE</locatie>
+		<x>52.63108</x>
+		<y>6.03711</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Gennep</locatie_omschrijving>
+		<locatie>GENN</locatie>
+		<x>51.697</x>
+		<y>5.95644</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Goidschalxoord</locatie_omschrijving>
+		<locatie>GOID</locatie>
+		<x>51.830298</x>
+		<y>4.451622</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Gouda - brug</locatie_omschrijving>
+		<locatie>GOUD</locatie>
+		<x>52.00658</x>
+		<y>4.71972</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Grave - boven</locatie_omschrijving>
+		<locatie>GRAB</locatie>
+		<x>51.76114</x>
+		<y>5.74436</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Grave - beneden</locatie_omschrijving>
+		<locatie>GRAV</locatie>
+		<x>51.77567</x>
+		<y>5.71994</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Grebbe</locatie_omschrijving>
+		<locatie>GREB</locatie>
+		<x>51.949389</x>
+		<y>5.589806</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Grevenbicht</locatie_omschrijving>
+		<locatie>GREV</locatie>
+		<x>51.05036</x>
+		<y>5.77161</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Inlaatpeil spuisluis Brouwersdam</locatie_omschrijving>
+		<locatie>GRGI</locatie>
+		<x>51.748735</x>
+		<y>3.827066</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Uitlaatpeil spuisluis Brouwersdam</locatie_omschrijving>
+		<locatie>GRGU</locatie>
+		<x>51.74858</x>
+		<y>3.82583</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Grolsheim -Nahe</locatie_omschrijving>
+		<locatie>GROL</locatie>
+		<x>49.900003</x>
+		<y>7.916663</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Groene Rivier Pannerden - boven</locatie_omschrijving>
+		<locatie>GRPB</locatie>
+		<x>51.88836</x>
+		<y>6.02989</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Groene Rivier Pannerden - beneden</locatie_omschrijving>
+		<locatie>GRPO</locatie>
+		<x>51.888</x>
+		<y>6.02997</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Grevelingensluis (wind)</locatie_omschrijving>
+		<locatie>GRWI</locatie>
+		<x>51.667219</x>
+		<y>4.094448</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Grevelingensluis (wind)</locatie_omschrijving>
+		<locatie>GRWIb</locatie>
+		<x>51.667219</x>
+		<y>4.094448</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Gundelsheim Neckar</locatie_omschrijving>
+		<locatie>GUND</locatie>
+		<x>49.283336</x>
+		<y>9.150002</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvliet 10</locatie_omschrijving>
+		<locatie>HA10</locatie>
+		<x>51.862802</x>
+		<y>3.860166</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvliet 10</locatie_omschrijving>
+		<locatie>HA10A</locatie>
+		<x>51.862802</x>
+		<y>3.860166</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvliet 10 - boven</locatie_omschrijving>
+		<locatie>HA10b</locatie>
+		<x>51.862802</x>
+		<y>3.860166</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvliet 10 e</locatie_omschrijving>
+		<locatie>HA10e</locatie>
+		<x>51.862802</x>
+		<y>3.860166</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvliet 10 f</locatie_omschrijving>
+		<locatie>HA10f</locatie>
+		<x>51.862802</x>
+		<y>3.860166</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haandrik - kruisbrug</locatie_omschrijving>
+		<locatie>HAAN</locatie>
+		<x>52.620833</x>
+		<y>6.698485</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haastrecht</locatie_omschrijving>
+		<locatie>HAAS</locatie>
+		<x>52.00433</x>
+		<y>4.74214</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haccourt</locatie_omschrijving>
+		<locatie>HACC</locatie>
+		<x>50.733718</x>
+		<y>5.676135</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hagestein - boven</locatie_omschrijving>
+		<locatie>HAGB</locatie>
+		<x>51.98989</x>
+		<y>5.13633</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hagestein - boven</locatie_omschrijving>
+		<locatie>HAGB</locatie>
+		<x>51.98989</x>
+		<y>5.13592</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hagestein - boven</locatie_omschrijving>
+		<locatie>HAGB</locatie>
+		<x>51.99067</x>
+		<y>5.13306</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hagestein - beneden</locatie_omschrijving>
+		<locatie>HAGO</locatie>
+		<x>51.99339</x>
+		<y>5.13242</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hambeek</locatie_omschrijving>
+		<locatie>HAMB</locatie>
+		<x>51.184692</x>
+		<y>5.98219</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hansweert (golfproject: NAP -1m)</locatie_omschrijving>
+		<locatie>HAN1</locatie>
+		<x>51.44572</x>
+		<y>4.00133</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hansweert - subloc (golfproject:NAP -1m)</locatie_omschrijving>
+		<locatie>HAN1b</locatie>
+		<x>51.44572</x>
+		<y>4.00133</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hansweert</locatie_omschrijving>
+		<locatie>HANS</locatie>
+		<x>51.44567</x>
+		<y>3.99744</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hansweert tijdelijk</locatie_omschrijving>
+		<locatie>HANSZ</locatie>
+		<x>51.44567</x>
+		<y>3.99744</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hartelbrug</locatie_omschrijving>
+		<locatie>HARB</locatie>
+		<x>51.86547</x>
+		<y>4.30758</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hartelhaven</locatie_omschrijving>
+		<locatie>HARH</locatie>
+		<x>51.929691</x>
+		<y>4.042464</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Harlingen</locatie_omschrijving>
+		<locatie>HARL</locatie>
+		<x>53.17567</x>
+		<y>5.41136</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Harlingen - backup</locatie_omschrijving>
+		<locatie>HARLB</locatie>
+		<x>53.17567</x>
+		<y>5.41136</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hartelkanaal-Kuwaitsteiger</locatie_omschrijving>
+		<locatie>HARQ</locatie>
+		<x>51.93028</x>
+		<y>4.16305</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hartelkanaal-Rozenburgse Sluis</locatie_omschrijving>
+		<locatie>HARR</locatie>
+		<x>51.895774</x>
+		<y>4.228893</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hattingen - Ruhr</locatie_omschrijving>
+		<locatie>HATT</locatie>
+		<x>51.399995</x>
+		<y>7.166665</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hansweert (wind+golfproject)</locatie_omschrijving>
+		<locatie>HAWI</locatie>
+		<x>51.44567</x>
+		<y>3.99744</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hansweert - subloc (wind+golfproject)</locatie_omschrijving>
+		<locatie>HAWIb</locatie>
+		<x>51.44567</x>
+		<y>3.99744</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietbrug 00</locatie_omschrijving>
+		<locatie>HB00</locatie>
+		<x>51.718903</x>
+		<y>4.402509</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hedel</locatie_omschrijving>
+		<locatie>HEDL</locatie>
+		<x>51.73889</x>
+		<y>5.26778</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Heel - boven</locatie_omschrijving>
+		<locatie>HEEB</locatie>
+		<x>51.17422</x>
+		<y>5.91875</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Heel - beneden</locatie_omschrijving>
+		<locatie>HEEO</locatie>
+		<x>51.17647</x>
+		<y>5.91922</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Heerjansdam</locatie_omschrijving>
+		<locatie>HEER</locatie>
+		<x>51.8425</x>
+		<y>4.58361</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Heesbeen</locatie_omschrijving>
+		<locatie>HEES</locatie>
+		<x>51.73576</x>
+		<y>5.12469</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hellevoetsluis</locatie_omschrijving>
+		<locatie>HELL</locatie>
+		<x>51.82103</x>
+		<y>4.134</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hengelo - boven</locatie_omschrijving>
+		<locatie>HENB</locatie>
+		<x>52.24569</x>
+		<y>6.80634</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hengelo - sluishefdeur boven</locatie_omschrijving>
+		<locatie>HENHB</locatie>
+		<x>52.24569</x>
+		<y>6.80402</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hengelo Koppelleiding</locatie_omschrijving>
+		<locatie>HENK</locatie>
+		<x>52.24683</x>
+		<y>6.80172</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hengelo - beneden</locatie_omschrijving>
+		<locatie>HENO</locatie>
+		<x>52.24617</x>
+		<y>6.80197</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hevel West - Grevelingen</locatie_omschrijving>
+		<locatie>HEVW</locatie>
+		<x>51.680414</x>
+		<y>4.147474</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hevel West - Grevelingen</locatie_omschrijving>
+		<locatie>HEVWb</locatie>
+		<x>51.680414</x>
+		<y>4.147474</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Heysham</locatie_omschrijving>
+		<locatie>HEYS</locatie>
+		<x>54.03167</x>
+		<y>-2.920273</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoofdplaat (golfproject: NAP -1m)</locatie_omschrijving>
+		<locatie>HFP1</locatie>
+		<x>51.37433</x>
+		<y>3.67289</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoofdplaat - subloc (golfproj.:NAP -1m)</locatie_omschrijving>
+		<locatie>HFP1b</locatie>
+		<x>51.37433</x>
+		<y>3.67289</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoofdplaat</locatie_omschrijving>
+		<locatie>HFPL</locatie>
+		<x>51.37847</x>
+		<y>3.67228</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoofdplaat - boven (tevens golfproject)</locatie_omschrijving>
+		<locatie>HFPLb</locatie>
+		<x>51.37847</x>
+		<y>3.67228</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hinkley Point</locatie_omschrijving>
+		<locatie>HINK</locatie>
+		<x>51.210558</x>
+		<y>-3.131383</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hartelkering-Zee</locatie_omschrijving>
+		<locatie>HKZ</locatie>
+		<x>51.86717</x>
+		<y>4.30119</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Honte - nabij ingang Sloehaven</locatie_omschrijving>
+		<locatie>HNTE</locatie>
+		<x>51.441684</x>
+		<y>3.686284</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoek van Holland</locatie_omschrijving>
+		<locatie>HOEK</locatie>
+		<x>51.97752</x>
+		<y>4.11974</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoek van Holland - backup</locatie_omschrijving>
+		<locatie>HOEKB</locatie>
+		<x>51.97752</x>
+		<y>4.11974</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hollandse brug</locatie_omschrijving>
+		<locatie>HOLB</locatie>
+		<x>52.32606</x>
+		<y>5.13906</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Holwerd</locatie_omschrijving>
+		<locatie>HOLW</locatie>
+		<x>53.401958</x>
+		<y>5.87959</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Holyhead</locatie_omschrijving>
+		<locatie>HOLY</locatie>
+		<x>53.313887</x>
+		<y>-4.620271</y>
+		<zoom>6</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoorn - Terschelling</locatie_omschrijving>
+		<locatie>HOTE</locatie>
+		<x>53.399258</x>
+		<y>5.348649</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Houtribdijk</locatie_omschrijving>
+		<locatie>HOUD</locatie>
+		<x>52.608956</x>
+		<y>5.486767</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Houtrib - noord</locatie_omschrijving>
+		<locatie>HOUN</locatie>
+		<x>52.53289</x>
+		<y>5.43291</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Houtrib - zuid</locatie_omschrijving>
+		<locatie>HOUZ</locatie>
+		<x>52.52322</x>
+		<y>5.43118</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Herenlaak</locatie_omschrijving>
+		<locatie>HRNLK</locatie>
+		<x>51.10117</x>
+		<y>5.81875</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Huibertgat</locatie_omschrijving>
+		<locatie>HUB1</locatie>
+		<x>53.57375</x>
+		<y>6.398433</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Huibertgat</locatie_omschrijving>
+		<locatie>HUIB</locatie>
+		<x>53.57375</x>
+		<y>6.398433</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoek van Holland NAP -2.5m</locatie_omschrijving>
+		<locatie>HVH25</locatie>
+		<x>51.97742</x>
+		<y>4.11983</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoek van Holland NAP -4.5m</locatie_omschrijving>
+		<locatie>HVH45</locatie>
+		<x>51.97742</x>
+		<y>4.11983</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoek van Holland NAP -9.0m</locatie_omschrijving>
+		<locatie>HVH90</locatie>
+		<x>51.97742</x>
+		<y>4.11983</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 1</locatie_omschrijving>
+		<locatie>HVS01</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 2</locatie_omschrijving>
+		<locatie>HVS02</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 3</locatie_omschrijving>
+		<locatie>HVS03</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 4</locatie_omschrijving>
+		<locatie>HVS04</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 5</locatie_omschrijving>
+		<locatie>HVS05</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 6</locatie_omschrijving>
+		<locatie>HVS06</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 7</locatie_omschrijving>
+		<locatie>HVS07</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 8</locatie_omschrijving>
+		<locatie>HVS08</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 9</locatie_omschrijving>
+		<locatie>HVS09</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 10</locatie_omschrijving>
+		<locatie>HVS10</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 11</locatie_omschrijving>
+		<locatie>HVS11</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 12</locatie_omschrijving>
+		<locatie>HVS12</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 13</locatie_omschrijving>
+		<locatie>HVS13</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 14</locatie_omschrijving>
+		<locatie>HVS14</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 15</locatie_omschrijving>
+		<locatie>HVS15</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 16</locatie_omschrijving>
+		<locatie>HVS16</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Haringvlietsluizen schuif 17</locatie_omschrijving>
+		<locatie>HVS17</locatie>
+		<x>51.836168</x>
+		<y>4.054384</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hansweert (havenmond)</locatie_omschrijving>
+		<locatie>HWRT</locatie>
+		<x>51.43806</x>
+		<y>4.01008</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJ-geul NZ</locatie_omschrijving>
+		<locatie>IJGL</locatie>
+		<x>52.480882</x>
+		<y>4.332981</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Ijmuiden</locatie_omschrijving>
+		<locatie>IJM</locatie>
+		<x>52.46197</x>
+		<y>4.55603</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJmuiden 1</locatie_omschrijving>
+		<locatie>IJM1</locatie>
+		<x>52.46197</x>
+		<y>4.55603</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJmuiden - buitenhaven</locatie_omschrijving>
+		<locatie>IJMH</locatie>
+		<x>52.46197</x>
+		<y>4.55603</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJmuiden - Buitenhaven (buiten)</locatie_omschrijving>
+		<locatie>IJMD</locatie>
+		<x>52.46197</x>
+		<y>4.55603</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJmuiden binnen</locatie_omschrijving>
+		<locatie>IJMO</locatie>
+		<x>52.46733</x>
+		<y>4.61281</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJmuiden - Noordersluis</locatie_omschrijving>
+		<locatie>IJMW</locatie>
+		<x>52.46731</x>
+		<y>4.60469</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJsselkop</locatie_omschrijving>
+		<locatie>IJSS</locatie>
+		<x>51.95147</x>
+		<y>5.95422</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJmuiden - zuidelijk havenhoofd</locatie_omschrijving>
+		<locatie>IJZ1</locatie>
+		<x>52.463693</x>
+		<y>4.532283</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Ilfracombe</locatie_omschrijving>
+		<locatie>ILFR</locatie>
+		<x>51.211109</x>
+		<y>-4.112222</y>
+		<zoom>7</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Immingham</locatie_omschrijving>
+		<locatie>IMMI</locatie>
+		<x>53.630274</x>
+		<y>-0.187499</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>J6 Platform 1</locatie_omschrijving>
+		<locatie>J61</locatie>
+		<x>53.816632</x>
+		<y>2.95001</y>
+		<zoom>6</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>J6 Platform 2</locatie_omschrijving>
+		<locatie>J62</locatie>
+		<x>53.816632</x>
+		<y>2.95001</y>
+		<zoom>6</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>K13 Alpha 1</locatie_omschrijving>
+		<locatie>K131</locatie>
+		<x>53.21701</x>
+		<y>3.218932</y>
+		<zoom>6</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>K13 Alpha 2</locatie_omschrijving>
+		<locatie>K132</locatie>
+		<x>53.21701</x>
+		<y>3.218932</y>
+		<zoom>6</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>K13 Alpha 3</locatie_omschrijving>
+		<locatie>K133</locatie>
+		<x>53.21701</x>
+		<y>3.218932</y>
+		<zoom>6</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>K14 Platform 1</locatie_omschrijving>
+		<locatie>K141</locatie>
+		<x>53.26667</x>
+		<y>3.63333</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kadoelen</locatie_omschrijving>
+		<locatie>KADL</locatie>
+		<x>52.65817</x>
+		<y>5.98158</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kalkofen Neu - Lahn</locatie_omschrijving>
+		<locatie>KALK</locatie>
+		<x>50.319166</x>
+		<y>7.890828</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kallo</locatie_omschrijving>
+		<locatie>KALO</locatie>
+		<x>51.267822</x>
+		<y>4.29859</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kallo</locatie_omschrijving>
+		<locatie>KALOb</locatie>
+		<x>51.267822</x>
+		<y>4.29859</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kamperhoek</locatie_omschrijving>
+		<locatie>KAMH</locatie>
+		<x>52.60456</x>
+		<y>5.64419</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kampen</locatie_omschrijving>
+		<locatie>KAMP</locatie>
+		<x>52.55158</x>
+		<y>5.92539</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kats - Zandkreeksluis OS</locatie_omschrijving>
+		<locatie>KATS</locatie>
+		<x>51.543972</x>
+		<y>3.865275</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kats - Zandkreeksluis OS</locatie_omschrijving>
+		<locatie>KATSb</locatie>
+		<x>51.543972</x>
+		<y>3.865275</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Katerveer</locatie_omschrijving>
+		<locatie>KATV</locatie>
+		<x>52.50867</x>
+		<y>6.05478</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kaub - Rhein</locatie_omschrijving>
+		<locatie>KAUB</locatie>
+		<x>50.083336</x>
+		<y>7.766663</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kats - Zandkreeksluis VM - wind</locatie_omschrijving>
+		<locatie>KAWI</locatie>
+		<x>51.54397</x>
+		<y>3.85925</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kinderdijk a/d Lek NAP -5.0 m</locatie_omschrijving>
+		<locatie>KDD50</locatie>
+		<x>51.8883</x>
+		<y>4.62599</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Keeten - Oosterschelde: boei</locatie_omschrijving>
+		<locatie>KEET</locatie>
+		<x>51.606832</x>
+		<y>3.966163</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Keizersveer</locatie_omschrijving>
+		<locatie>KEIZ</locatie>
+		<x>51.72011</x>
+		<y>4.89313</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kessel</locatie_omschrijving>
+		<locatie>KESS</locatie>
+		<x>51.28772</x>
+		<y>6.04892</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Keteldiep</locatie_omschrijving>
+		<locatie>KETD</locatie>
+		<x>52.58078</x>
+		<y>5.84664</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Ketelhaven</locatie_omschrijving>
+		<locatie>KETH</locatie>
+		<x>52.57939</x>
+		<y>5.75839</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kan.Gent-Terneuzen - brug Sluiskil</locatie_omschrijving>
+		<locatie>KGTB</locatie>
+		<x>51.29452</x>
+		<y>3.834863</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kan.Gent-Tern. - brug Sluiskil - boven</locatie_omschrijving>
+		<locatie>KGTBb</locatie>
+		<x>51.29452</x>
+		<y>3.834863</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kan.Gent-Tern. - brug Sluiskil - onder</locatie_omschrijving>
+		<locatie>KGTBo</locatie>
+		<x>51.29452</x>
+		<y>3.834863</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Sas van Gent</locatie_omschrijving>
+		<locatie>KGTS</locatie>
+		<x>51.230268</x>
+		<y>3.8075</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Sas van Gent - boven</locatie_omschrijving>
+		<locatie>KGTSb</locatie>
+		<x>51.230268</x>
+		<y>3.8075</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Sas van Gent - onder</locatie_omschrijving>
+		<locatie>KGTSo</locatie>
+		<x>51.230268</x>
+		<y>3.8075</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kimstergat</locatie_omschrijving>
+		<locatie>KIMS</locatie>
+		<x>53.29108</x>
+		<y>5.45694</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kinglochbervie</locatie_omschrijving>
+		<locatie>KINL</locatie>
+		<x>58.456663</x>
+		<y>-5.050284</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kan.Gent -Terneuzen - Westsluis</locatie_omschrijving>
+		<locatie>KLGT</locatie>
+		<x>51.325513</x>
+		<y>3.821083</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kan.Gent -Terneuzen - Westsluis</locatie_omschrijving>
+		<locatie>KLGTb</locatie>
+		<x>51.325513</x>
+		<y>3.821083</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kornwerderzand - binnen</locatie_omschrijving>
+		<locatie>KOBI</locatie>
+		<x>53.06926</x>
+		<y>5.33761</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Koblenz - Rhein</locatie_omschrijving>
+		<locatie>KOBL</locatie>
+		<x>53.07156</x>
+		<y>5.33497</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kornwerderzand - buiten</locatie_omschrijving>
+		<locatie>KOBU</locatie>
+		<x>53.07156</x>
+		<y>5.33497</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Koln - Rhein</locatie_omschrijving>
+		<locatie>KOEL</locatie>
+		<x>50.93834</x>
+		<y>6.96388</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Konstanz - Bodensee</locatie_omschrijving>
+		<locatie>KONS</locatie>
+		<x>47.650005</x>
+		<y>9.183331</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kop v/h Land</locatie_omschrijving>
+		<locatie>KOPL</locatie>
+		<x>51.78805</x>
+		<y>4.75972</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krabbersgat - noord</locatie_omschrijving>
+		<locatie>KRAN</locatie>
+		<x>52.69294</x>
+		<y>5.28335</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krabbersgat - zuid</locatie_omschrijving>
+		<locatie>KRAZ</locatie>
+		<x>52.69149</x>
+		<y>5.28111</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krammer Laagbekken</locatie_omschrijving>
+		<locatie>KRBL</locatie>
+		<x>51.658109</x>
+		<y>4.160037</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krammer Laagbekken - boven</locatie_omschrijving>
+		<locatie>KRBLb</locatie>
+		<x>51.658109</x>
+		<y>4.160037</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krammer Laagbekken - onder</locatie_omschrijving>
+		<locatie>KRBLo</locatie>
+		<x>51.658109</x>
+		<y>4.160037</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kreekrak - noord</locatie_omschrijving>
+		<locatie>KREE</locatie>
+		<x>51.4495</x>
+		<y>4.22994</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krimpen a/d Lek</locatie_omschrijving>
+		<locatie>KRIL</locatie>
+		<x>51.89103</x>
+		<y>4.62797</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krimpen a/d IJssel</locatie_omschrijving>
+		<locatie>KRIY</locatie>
+		<x>51.91691</x>
+		<y>4.57866</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krammersluizen west</locatie_omschrijving>
+		<locatie>KRSL</locatie>
+		<x>51.65922</x>
+		<y>4.14228</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krammersluizen west tijdelijk</locatie_omschrijving>
+		<locatie>KRSLZ</locatie>
+		<x>51.65922</x>
+		<y>4.14228</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krimpen a/d IJssel NAP -4.0m</locatie_omschrijving>
+		<locatie>KRY40</locatie>
+		<x>51.91686</x>
+		<y>4.57994</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Krimpen a/d IJssel NAP -5.5m</locatie_omschrijving>
+		<locatie>KRY55</locatie>
+		<x>51.91686</x>
+		<y>4.57994</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Kwintebank</locatie_omschrijving>
+		<locatie>KWIB</locatie>
+		<x>51.35</x>
+		<y>2.70583</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>L9 Platform 1</locatie_omschrijving>
+		<locatie>L91</locatie>
+		<x>53.616669</x>
+		<y>4.966667</y>
+		<zoom>7</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lanaken</locatie_omschrijving>
+		<locatie>LANAK</locatie>
+		<x>50.88953</x>
+		<y>5.68308</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lauwersoog</locatie_omschrijving>
+		<locatie>LAUW</locatie>
+		<x>53.408687</x>
+		<y>6.196952</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lebbenbrugge - Slinge </locatie_omschrijving>
+		<locatie>LEBB</locatie>
+		<x>52.107067</x>
+		<y>6.491016</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lichteiland Goeree</locatie_omschrijving>
+		<locatie>LEG</locatie>
+		<x>51.925745</x>
+		<y>3.669874</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lichteiland Goeree 1</locatie_omschrijving>
+		<locatie>LEG1</locatie>
+		<x>51.925745</x>
+		<y>3.669874</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lichteiland Goeree 2</locatie_omschrijving>
+		<locatie>LEG2</locatie>
+		<x>51.925745</x>
+		<y>3.669874</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Leith</locatie_omschrijving>
+		<locatie>LEIT</locatie>
+		<x>55.989719</x>
+		<y>-3.181666</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lekhaven NAP -2.5m</locatie_omschrijving>
+		<locatie>LEK25</locatie>
+		<x>51.90456</x>
+		<y>4.42958</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lekhaven NAP -5.0m</locatie_omschrijving>
+		<locatie>LEK50</locatie>
+		<x>51.90456</x>
+		<y>4.42958</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lekhaven NAP -7.0m</locatie_omschrijving>
+		<locatie>LEK70</locatie>
+		<x>51.90456</x>
+		<y>4.42958</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lemmer</locatie_omschrijving>
+		<locatie>LEMM</locatie>
+		<x>52.84192</x>
+		<y>5.71042</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lemmer</locatie_omschrijving>
+		<locatie>LEUN</locatie>
+		<x>50.53333</x>
+		<y>8.36667</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Leun Neu - Lahn</locatie_omschrijving>
+		<locatie>LGL11</locatie>
+		<x>51.988089</x>
+		<y>4.077869</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lage Licht HVH</locatie_omschrijving>
+		<locatie>LGL11</locatie>
+		<x>51.988089</x>
+		<y>4.077869</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Liefkenshoek (vm. Fort)</locatie_omschrijving>
+		<locatie>LIEF</locatie>
+		<x>51.29646</x>
+		<y>4.28575</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Liefkenshoek (vm. Fort)</locatie_omschrijving>
+		<locatie>LIEFb</locatie>
+		<x>51.29646</x>
+		<y>4.28575</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Linne-Temp</locatie_omschrijving>
+		<locatie>LINB</locatie>
+		<x>51.16892</x>
+		<y>5.92231</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Linne - beneden</locatie_omschrijving>
+		<locatie>LINN</locatie>
+		<x>51.16008</x>
+		<y>5.94314</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lith - boven</locatie_omschrijving>
+		<locatie>LITB</locatie>
+		<x>51.80939</x>
+		<y>5.45647</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lith - Temp</locatie_omschrijving>
+		<locatie>LITN</locatie>
+		<x>51.81164</x>
+		<y>5.45442</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lith - dorp</locatie_omschrijving>
+		<locatie>LITO</locatie>
+		<x>51.809658</x>
+		<y>5.432733</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Liverpool</locatie_omschrijving>
+		<locatie>LIVE</locatie>
+		<x>53.44972</x>
+		<y>-3.018051</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Liandudno</locatie_omschrijving>
+		<locatie>LLAN</locatie>
+		<x>53.331668</x>
+		<y>-3.82528</y>
+		<zoom>7</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lobith</locatie_omschrijving>
+		<locatie>LOBI</locatie>
+		<x>51.85058</x>
+		<y>6.10372</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lobith - backup</locatie_omschrijving>
+		<locatie>LOBIB</locatie>
+		<x>51.85058</x>
+		<y>6.10372</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Looveer - Huissen</locatie_omschrijving>
+		<locatie>LOOV</locatie>
+		<x>51.93325</x>
+		<y>5.96186</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Loozen</locatie_omschrijving>
+		<locatie>LOOZ</locatie>
+		<x>51.22306</x>
+		<y>5.60261</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Lowestoft</locatie_omschrijving>
+		<locatie>LOWS</locatie>
+		<x>52.473052</x>
+		<y>1.750285</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maaseik</locatie_omschrijving>
+		<locatie>MAAE</locatie>
+		<x>51.09492</x>
+		<y>5.80144</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maarssen</locatie_omschrijving>
+		<locatie>MAAR</locatie>
+		<x>52.14456</x>
+		<y>5.02094</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maassluis</locatie_omschrijving>
+		<locatie>MAAS</locatie>
+		<x>51.91767</x>
+		<y>4.24856</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Mainz - Rhein</locatie_omschrijving>
+		<locatie>MAIN</locatie>
+		<x>49.999999</x>
+		<y>8.283326</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Mannheim - Rhein</locatie_omschrijving>
+		<locatie>MANN</locatie>
+		<x>49.483333</x>
+		<y>8.466664</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Marknesse</locatie_omschrijving>
+		<locatie>MARK</locatie>
+		<x>52.70192</x>
+		<y>5.88739</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Markelose brug</locatie_omschrijving>
+		<locatie>MARKB</locatie>
+		<x>52.198062</x>
+		<y>6.5116</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Martinrive</locatie_omschrijving>
+		<locatie>MART</locatie>
+		<x>50.476943</x>
+		<y>5.639716</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maxau - Rhein</locatie_omschrijving>
+		<locatie>MAXA</locatie>
+		<x>49.039996</x>
+		<y>8.306668</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meeswijk veer</locatie_omschrijving>
+		<locatie>MEESW</locatie>
+		<x>51.00642</x>
+		<y>5.76597</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Megen</locatie_omschrijving>
+		<locatie>MEGE</locatie>
+		<x>51.82703</x>
+		<y>5.56308</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Membre Pont</locatie_omschrijving>
+		<locatie>MEMB</locatie>
+		<x>49.866665</x>
+		<y>4.916673</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Menden - Sieg</locatie_omschrijving>
+		<locatie>MEND</locatie>
+		<x>50.788333</x>
+		<y>7.165827</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meppelerdiep - kilometer 2.5</locatie_omschrijving>
+		<locatie>MEP25</locatie>
+		<x>52.652215</x>
+		<y>6.092926</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meppelerdiep sluis - binnendeur</locatie_omschrijving>
+		<locatie>MEPBI</locatie>
+		<x>52.637806</x>
+		<y>6.079606</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meppelerdiep sluis - buitendeur</locatie_omschrijving>
+		<locatie>MEPBU</locatie>
+		<x>52.637806</x>
+		<y>6.079606</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meteopark Zeebrugge</locatie_omschrijving>
+		<locatie>MEZB</locatie>
+		<x>51.335274</x>
+		<y>3.219721</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Middelharnis MB NAP -2m</locatie_omschrijving>
+		<locatie>MH020</locatie>
+		<x>51.776524</x>
+		<y>4.192119</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Middelharnis MB NAP -8m</locatie_omschrijving>
+		<locatie>MH080</locatie>
+		<x>51.776524</x>
+		<y>4.192119</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Middelharnis MB NAP -15m</locatie_omschrijving>
+		<locatie>MH150</locatie>
+		<x>51.776524</x>
+		<y>4.192119</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Milford haven</locatie_omschrijving>
+		<locatie>MILF</locatie>
+		<x>51.707496</x>
+		<y>-5.051665</y>
+		<zoom>6</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Millingen a/d Rijn</locatie_omschrijving>
+		<locatie>MILL</locatie>
+		<x>51.87294</x>
+		<y>6.03483</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Millport</locatie_omschrijving>
+		<locatie>MILP</locatie>
+		<x>55.748333</x>
+		<y>-4.906394</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Mississippihaven</locatie_omschrijving>
+		<locatie>MISS</locatie>
+		<x>51.93417</x>
+		<y>4.045</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maeslantkering zeezijde - noord</locatie_omschrijving>
+		<locatie>MLK11</locatie>
+		<x>51.96006</x>
+		<y>4.15972</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maeslantkering - rivierzijde</locatie_omschrijving>
+		<locatie>MKR</locatie>
+		<x>51.95319</x>
+		<y>4.17167</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maeslantkering - zeezijde</locatie_omschrijving>
+		<locatie>MKZ</locatie>
+		<x>51.96006</x>
+		<y>4.15972</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maasmond-Beerkanaal</locatie_omschrijving>
+		<locatie>MMBK</locatie>
+		<x>51.971112</x>
+		<y>4.097315</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maasmond</locatie_omschrijving>
+		<locatie>MMND</locatie>
+		<x>51.992222</x>
+		<y>4.008305</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maasgeul Maasvl. Noord-boei</locatie_omschrijving>
+		<locatie>MMVN</locatie>
+		<x>52</x>
+		<y>4.0125</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maasmond Papegaaiebek</locatie_omschrijving>
+		<locatie>MMPB</locatie>
+		<x>51.975</x>
+		<y>4.0763</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 000</locatie_omschrijving>
+		<locatie>MO000</locatie>
+		<x>51.98809</x>
+		<y>4.07787</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 000</locatie_omschrijving>
+		<locatie>MO000</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 015</locatie_omschrijving>
+		<locatie>MO015</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 030</locatie_omschrijving>
+		<locatie>MO030</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 045</locatie_omschrijving>
+		<locatie>MO045</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 060</locatie_omschrijving>
+		<locatie>MO060</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 075</locatie_omschrijving>
+		<locatie>MO075</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 090</locatie_omschrijving>
+		<locatie>MO090</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 105</locatie_omschrijving>
+		<locatie>MO105</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 120</locatie_omschrijving>
+		<locatie>MO120</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 135</locatie_omschrijving>
+		<locatie>MO135</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 150</locatie_omschrijving>
+		<locatie>MO150</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 165</locatie_omschrijving>
+		<locatie>MO165</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 180</locatie_omschrijving>
+		<locatie>MO180</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 195</locatie_omschrijving>
+		<locatie>MO195</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 210</locatie_omschrijving>
+		<locatie>MO210</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 225</locatie_omschrijving>
+		<locatie>MO225</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 240</locatie_omschrijving>
+		<locatie>MO240</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 255</locatie_omschrijving>
+		<locatie>MO255</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 270</locatie_omschrijving>
+		<locatie>MO270</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 285</locatie_omschrijving>
+		<locatie>MO285</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug 300</locatie_omschrijving>
+		<locatie>MO300</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk brug</locatie_omschrijving>
+		<locatie>MOEB</locatie>
+		<x>51.716367</x>
+		<y>4.636542</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Moerdijk</locatie_omschrijving>
+		<locatie>MOER</locatie>
+		<x>51.70483</x>
+		<y>4.62253</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Mond der Vecht</locatie_omschrijving>
+		<locatie>MOND</locatie>
+		<x>52.56389</x>
+		<y>6.10097</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Mook</locatie_omschrijving>
+		<locatie>MOOK</locatie>
+		<x>51.75894</x>
+		<y>5.86506</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meetpunt Vlaamse banken 0</locatie_omschrijving>
+		<locatie>MP0</locatie>
+		<x>51.39527</x>
+		<y>3.04722</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meetpunt Vlaamse banken 1</locatie_omschrijving>
+		<locatie>MP1</locatie>
+		<x>51.36139</x>
+		<y>3.11945</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meetpunt Vlaamse banken 2</locatie_omschrijving>
+		<locatie>MP2</locatie>
+		<x>51.36361</x>
+		<y>3.2914</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meetpunt Vlaamse banken 3</locatie_omschrijving>
+		<locatie>MP3</locatie>
+		<x>51.39055</x>
+		<y>3.20001</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meetpunt Vlaamse banken 4</locatie_omschrijving>
+		<locatie>MP4</locatie>
+		<x>51.41917</x>
+		<y>3.29973</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meetpunt Vlaamse banken 6</locatie_omschrijving>
+		<locatie>MP6</locatie>
+		<x>51.27483</x>
+		<y>2.4475</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meetpunt Vlaamse banken 7</locatie_omschrijving>
+		<locatie>MP7</locatie>
+		<x>51.38945</x>
+		<y>2.43917</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Meetpost Noordwijk - virtueel</locatie_omschrijving>
+		<locatie>MPN</locatie>
+		<x>52.27388</x>
+		<y>4.29611</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Marollegat - Oosterschelde</locatie_omschrijving>
+		<locatie>MRG</locatie>
+		<x>51.479747</x>
+		<y>4.191958</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Marollegat - Oosterschelde - boven</locatie_omschrijving>
+		<locatie>MRGb</locatie>
+		<x>51.479747</x>
+		<y>4.191958</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Marollegat - Oosterschelde - onder</locatie_omschrijving>
+		<locatie>MRGo</locatie>
+		<x>51.479747</x>
+		<y>4.191958</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maasgeul - boei E13</locatie_omschrijving>
+		<locatie>MSGL</locatie>
+		<x>51.925745</x>
+		<y>3.669874</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Mumbles</locatie_omschrijving>
+		<locatie>MUMB</locatie>
+		<x>51.57</x>
+		<y>-3.975552</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJgeul Munitiestortplaats 1</locatie_omschrijving>
+		<locatie>MUN1</locatie>
+		<x>52.558334</x>
+		<y>4.058333</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJgeul Munitiestortplaats 2</locatie_omschrijving>
+		<locatie>MUN2</locatie>
+		<x>52.558334</x>
+		<y>4.058333</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJgeul Munitiestortplaats 3</locatie_omschrijving>
+		<locatie>MUN3</locatie>
+		<x>52.558334</x>
+		<y>4.058333</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maasvlakte Slufter</locatie_omschrijving>
+		<locatie>MVSL</locatie>
+		<x>51.932518</x>
+		<y>3.998724</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Noorder Balgen</locatie_omschrijving>
+		<locatie>NBLG</locatie>
+		<x>53.36574</x>
+		<y>5.38485</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>North Cormorant</locatie_omschrijving>
+		<locatie>NC1</locatie>
+		<x>61.338188</x>
+		<y>1.166099</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>NDSM-werf 1</locatie_omschrijving>
+		<locatie>NDS1</locatie>
+		<x>52.39986</x>
+		<y>4.88805</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>NDSM-werf 2</locatie_omschrijving>
+		<locatie>NDS2</locatie>
+		<x>52.39986</x>
+		<y>4.88805</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Neer</locatie_omschrijving>
+		<locatie>NEER</locatie>
+		<x>51.26044</x>
+		<y>6.00433</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nes (golven)</locatie_omschrijving>
+		<locatie>NES2</locatie>
+		<x>53.42997</x>
+		<y>5.760459</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nes (golven)</locatie_omschrijving>
+		<locatie>NES3</locatie>
+		<x>53.42997</x>
+		<y>5.760459</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nesserdijk Rotterdam</locatie_omschrijving>
+		<locatie>NESD</locatie>
+		<x>51.90139</x>
+		<y>4.5273</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nes</locatie_omschrijving>
+		<locatie>NESS</locatie>
+		<x>53.42997</x>
+		<y>5.760459</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Neubruck - Erft</locatie_omschrijving>
+		<locatie>NEUB</locatie>
+		<x>51.133335</x>
+		<y>6.633334</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Neustatd Wstr. - Speyerbach</locatie_omschrijving>
+		<locatie>NEUS</locatie>
+		<x>50.616669</x>
+		<y>7.433339</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Newhaven</locatie_omschrijving>
+		<locatie>NEWH</locatie>
+		<x>50.781662</x>
+		<y>0.056939</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Newlyn</locatie_omschrijving>
+		<locatie>NEWL</locatie>
+		<x>50.103055</x>
+		<y>-5.542781</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Newport</locatie_omschrijving>
+		<locatie>NEWP</locatie>
+		<x>51.550004</x>
+		<y>-2.987501</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nieuw Beerta</locatie_omschrijving>
+		<locatie>NIBE</locatie>
+		<x>53.19442</x>
+		<y>7.14928</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nijmegen - haven</locatie_omschrijving>
+		<locatie>NIJM</locatie>
+		<x>51.85244</x>
+		<y>5.85067</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nijkerk - oost</locatie_omschrijving>
+		<locatie>NIJO</locatie>
+		<x>52.26186</x>
+		<y>5.47186</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nijkerk - west</locatie_omschrijving>
+		<locatie>NIJW</locatie>
+		<x>52.26186</x>
+		<y>5.47186</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nieuwpoort</locatie_omschrijving>
+		<locatie>NPT</locatie>
+		<x>51.150833</x>
+		<y>2.729448</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hoek van Holland - Noorderdam</locatie_omschrijving>
+		<locatie>NRD1</locatie>
+		<x>51.98809</x>
+		<y>4.07787</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>North Shields</locatie_omschrijving>
+		<locatie>NSHI</locatie>
+		<x>55.007502</x>
+		<y>-1.439722</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nieuwegein</locatie_omschrijving>
+		<locatie>NWGN</locatie>
+		<x>52.03369</x>
+		<y>5.11362</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nieuwe Statenzijl</locatie_omschrijving>
+		<locatie>NWST</locatie>
+		<x>53.23164</x>
+		<y>7.20825</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Obernau - Main</locatie_omschrijving>
+		<locatie>OBEN</locatie>
+		<x>49.942502</x>
+		<y>9.125828</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oberwinter - Rhein</locatie_omschrijving>
+		<locatie>OBEW</locatie>
+		<x>50.616663</x>
+		<y>7.216661</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Den Oever - binnen</locatie_omschrijving>
+		<locatie>OEBI</locatie>
+		<x>52.93023</x>
+		<y>5.04777</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Den Oever - buiten</locatie_omschrijving>
+		<locatie>OEBU</locatie>
+		<x>52.93684</x>
+		<y>5.03723</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Hengelo - Oelerbrug</locatie_omschrijving>
+		<locatie>OELB</locatie>
+		<x>52.25037</x>
+		<y>6.767341</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Olst</locatie_omschrijving>
+		<locatie>OLST</locatie>
+		<x>52.34208</x>
+		<y>6.10575</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Ommen - Hesselmulertbrug</locatie_omschrijving>
+		<locatie>OMMH</locatie>
+		<x>52.517093</x>
+		<y>6.421917</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Ommen - Ommerkanaal</locatie_omschrijving>
+		<locatie>OMMK</locatie>
+		<x>52.52331</x>
+		<y>6.40172</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Opladen - Wupper</locatie_omschrijving>
+		<locatie>OPLA</locatie>
+		<x>51.066662</x>
+		<y>7.016661</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oosterschelde 11</locatie_omschrijving>
+		<locatie>OS11</locatie>
+		<x>51.64329</x>
+		<y>3.480331</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oosterschelde 11 - subloc</locatie_omschrijving>
+		<locatie>OS11b</locatie>
+		<x>51.64329</x>
+		<y>3.480331</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oosterschelde 13</locatie_omschrijving>
+		<locatie>OS13</locatie>
+		<x>51.732787</x>
+		<y>3.554987</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oosterschelde 14</locatie_omschrijving>
+		<locatie>OS14</locatie>
+		<x>51.720053</x>
+		<y>3.676699</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oosterschelde 14 - subloc</locatie_omschrijving>
+		<locatie>OS14b</locatie>
+		<x>51.720053</x>
+		<y>3.676699</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oosterschelde 15</locatie_omschrijving>
+		<locatie>OS15</locatie>
+		<x>51.582217</x>
+		<y>3.472133</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oosterschelde 4</locatie_omschrijving>
+		<locatie>OS4</locatie>
+		<x>51.65588</x>
+		<y>3.693954</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oosterschelde 4 - boven</locatie_omschrijving>
+		<locatie>OS4b</locatie>
+		<x>51.65588</x>
+		<y>3.693954</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oosterschelde 4 - onder</locatie_omschrijving>
+		<locatie>OS4o</locatie>
+		<x>51.65588</x>
+		<y>3.693954</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Ostende (B)</locatie_omschrijving>
+		<locatie>OST</locatie>
+		<x>51.234726</x>
+		<y>2.924993</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Oude Schild</locatie_omschrijving>
+		<locatie>OUDE</locatie>
+		<x>53.04103</x>
+		<y>4.85122</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Overloop van Hansweert - Westerschelde</locatie_omschrijving>
+		<locatie>OVHA</locatie>
+		<x>51.4054</x>
+		<y>3.964939</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Overloop v. Hansweert - (WS) - boven</locatie_omschrijving>
+		<locatie>OVHAb</locatie>
+		<x>51.4054</x>
+		<y>3.964939</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Overloop v. Hansweert - (WS) - onder</locatie_omschrijving>
+		<locatie>OVHAo</locatie>
+		<x>51.4054</x>
+		<y>3.964939</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Overloop v. Hansweert (WS) golfloc</locatie_omschrijving>
+		<locatie>OVHW</locatie>
+		<x>51.372386</x>
+		<y>3.918971</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Overloop van Valkenisse</locatie_omschrijving>
+		<locatie>OVVA</locatie>
+		<x>51.370612</x>
+		<y>4.136908</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Platform P11</locatie_omschrijving>
+		<locatie>P111</locatie>
+		<x>52.35867</x>
+		<y>3.3415</y>
+		<zoom>7</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Pannerdens kanaal</locatie_omschrijving>
+		<locatie>PANK</locatie>
+		<x>51.87475</x>
+		<y>6.03778</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Pannerdens kanaal (2D)</locatie_omschrijving>
+		<locatie>PANK2</locatie>
+		<x>51.87475</x>
+		<y>6.03778</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Pannerdense kop</locatie_omschrijving>
+		<locatie>PANN</locatie>
+		<x>51.86947</x>
+		<y>6.03992</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Petten - zuid</locatie_omschrijving>
+		<locatie>PETT</locatie>
+		<x>52.77289</x>
+		<y>4.649701</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Pollendam</locatie_omschrijving>
+		<locatie>PLDM</locatie>
+		<x>53.18155</x>
+		<y>5.38061</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Plittersdorf - Rhein</locatie_omschrijving>
+		<locatie>PLIT</locatie>
+		<x>48.886945</x>
+		<y>8.136391</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Plochingen - Neckar</locatie_omschrijving>
+		<locatie>PLOC</locatie>
+		<x>48.716643</x>
+		<y>9.416665</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Plaat van Oude Tonge - Oosterschelde</locatie_omschrijving>
+		<locatie>PLOT</locatie>
+		<x>51.673219</x>
+		<y>4.137883</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Plaat van Oude Tonge (OS) - boven</locatie_omschrijving>
+		<locatie>PLOTb</locatie>
+		<x>51.673219</x>
+		<y>4.137883</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Plymouth / Devonport</locatie_omschrijving>
+		<locatie>PLYM</locatie>
+		<x>50.368337</x>
+		<y>-4.185271</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Portmouth</locatie_omschrijving>
+		<locatie>PORT</locatie>
+		<x>50.80028</x>
+		<y>-1.11111</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Prosperpolder - Schelde</locatie_omschrijving>
+		<locatie>PROS</locatie>
+		<x>51.34838</x>
+		<y>4.23793</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Prosperpolder - subloc - Schelde</locatie_omschrijving>
+		<locatie>PROSb</locatie>
+		<x>51.34838</x>
+		<y>4.23793</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Pas van Terneuzen (Westerschelde)</locatie_omschrijving>
+		<locatie>PVT</locatie>
+		<x>51.35083</x>
+		<y>3.805169</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Q1/Hoorn Platform 1</locatie_omschrijving>
+		<locatie>Q11</locatie>
+		<x>52.925335</x>
+		<y>4.150361</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Q1/Hoorn Platform 2: boei</locatie_omschrijving>
+		<locatie>Q12</locatie>
+		<x>52.925335</x>
+		<y>4.150361</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rak - noord</locatie_omschrijving>
+		<locatie>RAKN</locatie>
+		<x>51.69489</x>
+		<y>4.42178</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rak - zuid</locatie_omschrijving>
+		<locatie>RAKZ</locatie>
+		<x>51.68244</x>
+		<y>4.39769</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Ramspolbrug</locatie_omschrijving>
+		<locatie>RAMS</locatie>
+		<x>52.61383</x>
+		<y>5.84292</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Raunheim - Main</locatie_omschrijving>
+		<locatie>RAUN</locatie>
+		<x>50.020835</x>
+		<y>8.491109</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rees - Rhein</locatie_omschrijving>
+		<locatie>REES</locatie>
+		<x>51.757775</x>
+		<y>6.397222</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Riedenburg - derdenlocatie</locatie_omschrijving>
+		<locatie>RIED</locatie>
+		<x>48.966667</x>
+		<y>11.6666667</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rockenau Ska - Neckar</locatie_omschrijving>
+		<locatie>ROCK</locatie>
+		<x>49.433333</x>
+		<y>8.999998</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roermond- Temp</locatie_omschrijving>
+		<locatie>ROEB</locatie>
+		<x>51.21081</x>
+		<y>5.98453</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roermond - boven</locatie_omschrijving>
+		<locatie>ROER</locatie>
+		<x>51.2005</x>
+		<y>5.98233</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roggebotsluis - noord</locatie_omschrijving>
+		<locatie>ROGN</locatie>
+		<x>52.546</x>
+		<y>5.85539</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roggebotsluis - zuid</locatie_omschrijving>
+		<locatie>ROGZ</locatie>
+		<x>52.54289</x>
+		<y>5.85486</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rotterdam - Luchthaven</locatie_omschrijving>
+		<locatie>ROT1</locatie>
+		<x>51.949206</x>
+		<y>4.448724</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rotterdam - Geulhaven</locatie_omschrijving>
+		<locatie>ROT2</locatie>
+		<x>51.888626</x>
+		<y>4.313755</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rotterdam - Boompjes</locatie_omschrijving>
+		<locatie>ROTB</locatie>
+		<x>51.91528</x>
+		<y>4.49194</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rotterdam</locatie_omschrijving>
+		<locatie>ROTT</locatie>
+		<x>51.92006</x>
+		<y>4.50002</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rozenburgse Sluis - Calandkanaal</locatie_omschrijving>
+		<locatie>ROZE</locatie>
+		<x>51.895774</x>
+		<y>4.228893</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rozenburgse - Sluis (zicht)</locatie_omschrijving>
+		<locatie>ROZS</locatie>
+		<x>51.890053</x>
+		<y>4.228474</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Beergat Radarpost 4 </locatie_omschrijving>
+		<locatie>RP04</locatie>
+		<x>51.944892</x>
+		<y>4.08393</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Caland West Radarpost 5</locatie_omschrijving>
+		<locatie>RP05</locatie>
+		<x>51.963941</x>
+		<y>4.132766</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Caland Midden Radarpost 6</locatie_omschrijving>
+		<locatie>RP06</locatie>
+		<x>51.945278</x>
+		<y>4.17371</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Rozenburg Radarpost 8</locatie_omschrijving>
+		<locatie>RP08</locatie>
+		<x>51.904796</x>
+		<y>4.260951</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Geulhaven Radarpost 10</locatie_omschrijving>
+		<locatie>RP10</locatie>
+		<x>51.891814</x>
+		<y>4.312531</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Waalhaven Radarpost 19</locatie_omschrijving>
+		<locatie>RP19</locatie>
+		<x>51.890095</x>
+		<y>4.439599</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Caland Oost Radarpost 32</locatie_omschrijving>
+		<locatie>RP32</locatie>
+		<x>51.918254</x>
+		<y>4.221408</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompot - binnen (SVKO)</locatie_omschrijving>
+		<locatie>RPBI</locatie>
+		<x>51.61908</x>
+		<y>3.6865</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompot Binnen 1 (SVKO)</locatie_omschrijving>
+		<locatie>RPBI1</locatie>
+		<x>51.61908</x>
+		<y>3.6865</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompot Binnen 2 (SVKO)</locatie_omschrijving>
+		<locatie>RPBI2</locatie>
+		<x>51.61908</x>
+		<y>3.6865</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompot Binnen 3 (SVKO)</locatie_omschrijving>
+		<locatie>RPBI3</locatie>
+		<x>51.61908</x>
+		<y>3.6865</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompot - buiten (SVKO)</locatie_omschrijving>
+		<locatie>RPBU</locatie>
+		<x>51.61956</x>
+		<y>3.68214</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompot Buiten 1 (SVKO)</locatie_omschrijving>
+		<locatie>RPBU1</locatie>
+		<x>51.61956</x>
+		<y>3.68214</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompot Buiten 2 (SVKO)</locatie_omschrijving>
+		<locatie>RPBU2</locatie>
+		<x>51.61956</x>
+		<y>3.68214</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompot Buiten 3 (SVKO)</locatie_omschrijving>
+		<locatie>RPBU3</locatie>
+		<x>51.61956</x>
+		<y>3.68214</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompot - buiten (SVKO) - backup</locatie_omschrijving>
+		<locatie>RPBUB</locatie>
+		<x>51.61956</x>
+		<y>3.68214</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompotsluis (SVKO)</locatie_omschrijving>
+		<locatie>RPSL</locatie>
+		<x>51.61956</x>
+		<y>3.68222</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompotsluis A (SVKO) - subloc</locatie_omschrijving>
+		<locatie>RPSLa</locatie>
+		<x>51.61956</x>
+		<y>3.68222</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Roompotsluis B (SVKO) - subloc</locatie_omschrijving>
+		<locatie>RPSLb</locatie>
+		<x>51.61956</x>
+		<y>3.68222</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Ruhrort - Rhein</locatie_omschrijving>
+		<locatie>RUHR</locatie>
+		<x>51.456391</x>
+		<y>6.728616</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Ruwer - Mosel</locatie_omschrijving>
+		<locatie>RUWE</locatie>
+		<x>49.783333</x>
+		<y>6.716666</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Salzines Bar Ecl</locatie_omschrijving>
+		<locatie>SALZ</locatie>
+		<x>50.466664</x>
+		<y>4.850005</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Sambeek - boven</locatie_omschrijving>
+		<locatie>SAMB</locatie>
+		<x>51.63297</x>
+		<y>6.00414</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Sambeek - beneden</locatie_omschrijving>
+		<locatie>SAMO</locatie>
+		<x>51.64544</x>
+		<y>5.97097</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schermbeck1 - Lippe</locatie_omschrijving>
+		<locatie>SC01</locatie>
+		<x>51.699996</x>
+		<y>6.883331</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schouwenbank 2</locatie_omschrijving>
+		<locatie>SCB2</locatie>
+		<x>51.743805</x>
+		<y>3.30619</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schaar</locatie_omschrijving>
+		<locatie>SCHA</locatie>
+		<x>51.64919</x>
+		<y>3.682036</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schouwenbank</locatie_omschrijving>
+		<locatie>SCHB</locatie>
+		<x>51.746667</x>
+		<y>3.306661</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Scheveningen</locatie_omschrijving>
+		<locatie>SCHE</locatie>
+		<x>52.099036</x>
+		<y>4.263563</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schweinfurt NH - Main</locatie_omschrijving>
+		<locatie>SCHF</locatie>
+		<x>50.049995</x>
+		<y>10.233336</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schoonhoven</locatie_omschrijving>
+		<locatie>SCHH</locatie>
+		<x>51.943</x>
+		<y>4.85131</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schiermonnikoog</locatie_omschrijving>
+		<locatie>SCHI</locatie>
+		<x>53.46886</x>
+		<y>6.20367</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Scheur Oost</locatie_omschrijving>
+		<locatie>SCHO</locatie>
+		<x>51.402773</x>
+		<y>3.302002</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Scheur West</locatie_omschrijving>
+		<locatie>SCHW</locatie>
+		<x>51.393376</x>
+		<y>3.04805</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schellingwouderbrug</locatie_omschrijving>
+		<locatie>SCHWB</locatie>
+		<x>52.378673</x>
+		<y>4.967544</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>s-Gravendeel</locatie_omschrijving>
+		<locatie>SGRA</locatie>
+		<x>51.787782</x>
+		<y>4.627158</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Sheerness</locatie_omschrijving>
+		<locatie>SHEE</locatie>
+		<x>51.445559</x>
+		<y>0.743327</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Sint Pieter - noord</locatie_omschrijving>
+		<locatie>SINT</locatie>
+		<x>50.82853</x>
+		<y>5.6965</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Sint Pieter - noord</locatie_omschrijving>
+		<locatie>SINTQ</locatie>
+		<x>50.82853</x>
+		<y>5.6965</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Sloehaven - monding - Westerschelde</locatie_omschrijving>
+		<locatie>SLHV</locatie>
+		<x>51.446502</x>
+		<y>3.66294</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Smeermaas</locatie_omschrijving>
+		<locatie>SMEE</locatie>
+		<x>50.874748</x>
+		<y>5.678436</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schiermonnikoog Noord</locatie_omschrijving>
+		<locatie>SMN1</locatie>
+		<x>53.59483</x>
+		<y>6.16539</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schiermonnikoog Westgat</locatie_omschrijving>
+		<locatie>SMWG</locatie>
+		<x>53.5209</x>
+		<y>5.99908</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Spaarndammerpolder NAP -1.4m</locatie_omschrijving>
+		<locatie>SPA14</locatie>
+		<x>52.441489</x>
+		<y>4.697069</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Spaarndammerpolder NAP -6.4m</locatie_omschrijving>
+		<locatie>SPA64</locatie>
+		<x>52.441489</x>
+		<y>4.697069</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Spooldersluis - binnen</locatie_omschrijving>
+		<locatie>SPBI</locatie>
+		<x>52.50986</x>
+		<y>6.05517</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Spijkenisserbrug - west</locatie_omschrijving>
+		<locatie>SPBR</locatie>
+		<x>51.859612</x>
+		<y>4.33986</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Speyer - Rhein</locatie_omschrijving>
+		<locatie>SPEY</locatie>
+		<x>49.324998</x>
+		<y>8.449441</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Spijkenisserbrug NAP -2.5m</locatie_omschrijving>
+		<locatie>SPI25</locatie>
+		<x>51.859612</x>
+		<y>4.33986</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Spijkenisserbrug NAP -4.5m</locatie_omschrijving>
+		<locatie>SPI45</locatie>
+		<x>51.859612</x>
+		<y>4.33986</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Spijkenisserbrug NAP -9.0m</locatie_omschrijving>
+		<locatie>SPI90</locatie>
+		<x>51.859612</x>
+		<y>4.33986</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Spijkenisse</locatie_omschrijving>
+		<locatie>SPIJ</locatie>
+		<x>51.86214</x>
+		<y>4.33447</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maasmond stroommeetpaal 1</locatie_omschrijving>
+		<locatie>SPM1</locatie>
+		<x>51.992222</x>
+		<y>4.008305</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Maasmond stroommeetpaal 2</locatie_omschrijving>
+		<locatie>SPM2</locatie>
+		<x>51.992222</x>
+		<y>4.008305</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Spaanjerd</locatie_omschrijving>
+		<locatie>SPNJD</locatie>
+		<x>51.12975</x>
+		<y>5.82364</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Middelharnis inloop Spui NAP -1m</locatie_omschrijving>
+		<locatie>SPU10</locatie>
+		<x>51.78232</x>
+		<y>4.236792</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Middelharnis inloop Spui NAP -5m</locatie_omschrijving>
+		<locatie>SPU50</locatie>
+		<x>51.78232</x>
+		<y>4.236792</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuikanaal Inloop</locatie_omschrijving>
+		<locatie>SPUI</locatie>
+		<x>51.46292</x>
+		<y>4.22581</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuikanaal Inloop - boven</locatie_omschrijving>
+		<locatie>SPUIb</locatie>
+		<x>51.46292</x>
+		<y>4.22581</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Bathse spuikanaal Inloop - onder</locatie_omschrijving>
+		<locatie>SPUIo</locatie>
+		<x>51.46292</x>
+		<y>4.22581</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJgeul stroommeetpaal 1</locatie_omschrijving>
+		<locatie>SPY1</locatie>
+		<x>52.463736</x>
+		<y>4.517361</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJgeul stroommeetpaal 2</locatie_omschrijving>
+		<locatie>SPY2</locatie>
+		<x>52.463736</x>
+		<y>4.517361</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>St.Arnual - Saar</locatie_omschrijving>
+		<locatie>STAR</locatie>
+		<x>49.21695</x>
+		<y>7.01694</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Stavenisse - Oosterschelde</locatie_omschrijving>
+		<locatie>STAV</locatie>
+		<x>51.595406</x>
+		<y>4.006012</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Stavenisse</locatie_omschrijving>
+		<locatie>STAVA</locatie>
+		<x>51.595406</x>
+		<y>4.006012</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Stavenisse</locatie_omschrijving>
+		<locatie>STAVb</locatie>
+		<x>51.595406</x>
+		<y>4.006012</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>De Steeg</locatie_omschrijving>
+		<locatie>STEE</locatie>
+		<x>52.017067</x>
+		<y>6.062269</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Steinbach - Main</locatie_omschrijving>
+		<locatie>STEI</locatie>
+		<x>50.000001</x>
+		<y>9.583335</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Stellendam - buiten</locatie_omschrijving>
+		<locatie>STEL</locatie>
+		<x>51.827029</x>
+		<y>4.033445</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Stevensweert</locatie_omschrijving>
+		<locatie>STEV</locatie>
+		<x>51.13089</x>
+		<y>5.841663</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Stortemelk</locatie_omschrijving>
+		<locatie>STM1</locatie>
+		<x>53.322785</x>
+		<y>4.995979</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Stortemelk Oost</locatie_omschrijving>
+		<locatie>STMO1</locatie>
+		<x>53.321313</x>
+		<y>5.102088</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Stornoway</locatie_omschrijving>
+		<locatie>STOR</locatie>
+		<x>58.207778</x>
+		<y>-6.388893</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Stavoren</locatie_omschrijving>
+		<locatie>STVO</locatie>
+		<x>52.89661</x>
+		<y>5.38333</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Surinamekade</locatie_omschrijving>
+		<locatie>SURI</locatie>
+		<x>52.37778</x>
+		<y>4.94872</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Suurhoffbrug</locatie_omschrijving>
+		<locatie>SUUR</locatie>
+		<x>51.93778</x>
+		<y>4.10722</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schaar v/d noord - Westerschelde</locatie_omschrijving>
+		<locatie>SVDN</locatie>
+		<x>51.37756</x>
+		<y>4.16506</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schaar v/d noord - subloc- Westerschelde</locatie_omschrijving>
+		<locatie>SVDNb</locatie>
+		<x>51.37756</x>
+		<y>4.16506</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Schellingwouderbrug NAP -2.80m</locatie_omschrijving>
+		<locatie>SWB28</locatie>
+		<x>52.37875</x>
+		<y>4.96733</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Scheur Wielingen (B)</locatie_omschrijving>
+		<locatie>SWI</locatie>
+		<x>51.234726</x>
+		<y>2.924993</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Tabreux</locatie_omschrijving>
+		<locatie>TABR</locatie>
+		<x>50.133333</x>
+		<y>5.800003</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Texelhors</locatie_omschrijving>
+		<locatie>TEHO</locatie>
+		<x>53.002592</x>
+		<y>4.735636</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen</locatie_omschrijving>
+		<locatie>TERN</locatie>
+		<x>51.336304</x>
+		<y>3.819895</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen tijdelijk</locatie_omschrijving>
+		<locatie>TERNZ</locatie>
+		<x>51.32778</x>
+		<y>3.81619</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terschelling - Noordzee</locatie_omschrijving>
+		<locatie>TERS</locatie>
+		<x>53.42794</x>
+		<y>5.33319</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>wantij Terschelling</locatie_omschrijving>
+		<locatie>TERW</locatie>
+		<x>53.325</x>
+		<y>5.53833</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Texel - Noordzee</locatie_omschrijving>
+		<locatie>TEXE</locatie>
+		<x>53.11483</x>
+		<y>4.75106</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Tholen</locatie_omschrijving>
+		<locatie>THOL</locatie>
+		<x>51.515855</x>
+		<y>4.132054</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Tiel - kanaal</locatie_omschrijving>
+		<locatie>TIEK</locatie>
+		<x>51.90303</x>
+		<y>5.45399</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Tiel - Waal</locatie_omschrijving>
+		<locatie>TIEW</locatie>
+		<x>51.90053</x>
+		<y>5.45558</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen - Westsluis</locatie_omschrijving>
+		<locatie>TNWS</locatie>
+		<x>51.32778</x>
+		<y>3.81619</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen - Westsluis</locatie_omschrijving>
+		<locatie>TNWSb</locatie>
+		<x>51.32778</x>
+		<y>3.81619</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Treignes</locatie_omschrijving>
+		<locatie>TREI</locatie>
+		<x>50.100001</x>
+		<y>4.666668</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Trapegeer (B)</locatie_omschrijving>
+		<locatie>TRG</locatie>
+		<x>51.141663</x>
+		<y>2.574994</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Trier - Mosel</locatie_omschrijving>
+		<locatie>TRIE</locatie>
+		<x>49.73333</x>
+		<y>6.624996</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen (Pas v. Terneuzen)</locatie_omschrijving>
+		<locatie>TRN1</locatie>
+		<x>51.32778</x>
+		<y>3.81619</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Trunstadt - Main</locatie_omschrijving>
+		<locatie>TRUN</locatie>
+		<x>49.922777</x>
+		<y>10.77694</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen Westsluis KanaalZijde</locatie_omschrijving>
+		<locatie>TWKZ</locatie>
+		<x>51.31722</x>
+		<y>3.82456</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen Westsluis KanaalZijde - boven</locatie_omschrijving>
+		<locatie>TWKZb</locatie>
+		<x>51.31722</x>
+		<y>3.82456</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen Westsluis KanaalZijde - onder</locatie_omschrijving>
+		<locatie>TWKZo</locatie>
+		<x>51.31722</x>
+		<y>3.82456</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen Westsluis ZeeZijde</locatie_omschrijving>
+		<locatie>TWZZ</locatie>
+		<x>51.33758</x>
+		<y>3.812564</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen Westsluis ZeeZijde - boven</locatie_omschrijving>
+		<locatie>TWZZb</locatie>
+		<x>51.33758</x>
+		<y>3.812564</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Terneuzen Westsluis ZeeZijde - onder</locatie_omschrijving>
+		<locatie>TWZZo</locatie>
+		<x>51.33758</x>
+		<y>3.812564</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Uithuizerwad 2</locatie_omschrijving>
+		<locatie>UHW2</locatie>
+		<x>53.46593</x>
+		<y>6.75667</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Uithuizerwad 3</locatie_omschrijving>
+		<locatie>UHW3</locatie>
+		<x>53.46593</x>
+		<y>6.75667</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Uithuizerwad</locatie_omschrijving>
+		<locatie>UHWD</locatie>
+		<x>53.46593</x>
+		<y>6.75667</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Uikhoven</locatie_omschrijving>
+		<locatie>UIKHV</locatie>
+		<x>50.92556</x>
+		<y>5.72756</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Valkenburg</locatie_omschrijving>
+		<locatie>VALK</locatie>
+		<x>52.168377</x>
+		<y>4.403757</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vechterweerd - beneden</locatie_omschrijving>
+		<locatie>VECO</locatie>
+		<x>52.518103</x>
+		<y>6.211651</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Venlo</locatie_omschrijving>
+		<locatie>VENL</locatie>
+		<x>51.36761</x>
+		<y>6.15864</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Volkerakgat 2 (SMN)</locatie_omschrijving>
+		<locatie>VG02</locatie>
+		<x>51.69244</x>
+		<y>4.40153</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Volkerakgat 3 (SMN)</locatie_omschrijving>
+		<locatie>VG03</locatie>
+		<x>51.69183</x>
+		<y>4.40228</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Visee</locatie_omschrijving>
+		<locatie>VISE</locatie>
+		<x>50.743578</x>
+		<y>5.686822</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Volkerak (Galathea)</locatie_omschrijving>
+		<locatie>VK</locatie>
+		<x>51.652967</x>
+		<y>4.316628</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Volkerak - Galathea - boven</locatie_omschrijving>
+		<locatie>VKb</locatie>
+		<x>51.652967</x>
+		<y>4.316628</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Volkerak - Galathea - onder</locatie_omschrijving>
+		<locatie>VKo</locatie>
+		<x>51.652967</x>
+		<y>4.316628</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vlaardingen</locatie_omschrijving>
+		<locatie>VLAA</locatie>
+		<x>51.89997</x>
+		<y>4.34956</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vlieland</locatie_omschrijving>
+		<locatie>VLI1</locatie>
+		<x>53.24925</x>
+		<y>4.915364</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vlieland - haven</locatie_omschrijving>
+		<locatie>VLIE</locatie>
+		<x>53.2955</x>
+		<y>5.09208</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vlissingen</locatie_omschrijving>
+		<locatie>VLIS</locatie>
+		<x>51.442961</x>
+		<y>3.5974</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vlissingen - backup</locatie_omschrijving>
+		<locatie>VLISB</locatie>
+		<x>51.442961</x>
+		<y>3.5974</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vlissingen tijdelijk</locatie_omschrijving>
+		<locatie>VLISZ</locatie>
+		<x>51.442961</x>
+		<y>3.5974</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Veersemeer 3 (Zandkreeksluis. binnen)</locatie_omschrijving>
+		<locatie>VM3</locatie>
+		<x>51.54369</x>
+		<y>3.86267</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Veersemeer 4 - Oranjeplaat</locatie_omschrijving>
+		<locatie>VM4</locatie>
+		<x>51.51661</x>
+		<y>3.70014</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Veersemeer 4 - Oranjeplaat - boven</locatie_omschrijving>
+		<locatie>VM4b</locatie>
+		<x>51.51661</x>
+		<y>3.70014</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Veersemeer 4 - Oranjeplaat - onder</locatie_omschrijving>
+		<locatie>VM4o</locatie>
+		<x>51.51661</x>
+		<y>3.70014</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Veersemeer 5 - Schotsman</locatie_omschrijving>
+		<locatie>VM5</locatie>
+		<x>51.581568</x>
+		<y>3.643264</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Veersemeer 5 - boven - Schotsman</locatie_omschrijving>
+		<locatie>VM5b</locatie>
+		<x>51.581568</x>
+		<y>3.643264</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Veersemeer 5 - onder - Schotsman</locatie_omschrijving>
+		<locatie>VM5o</locatie>
+		<x>51.581568</x>
+		<y>3.643264</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Volkerak Noord - boven - Holl.diep</locatie_omschrijving>
+		<locatie>VOLKb</locatie>
+		<x>51.6933</x>
+		<y>4.40269</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Volkerak Noord - onder - Holl.diep</locatie_omschrijving>
+		<locatie>VOLKo</locatie>
+		<x>51.6933</x>
+		<y>4.40269</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nieuw Vossemeer - Schelde-Rijn</locatie_omschrijving>
+		<locatie>VOSM</locatie>
+		<x>51.585328</x>
+		<y>4.201674</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nieuw Vossemeer - boven - Schelde-Rijn</locatie_omschrijving>
+		<locatie>VOSMb</locatie>
+		<x>51.585328</x>
+		<y>4.201674</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Nieuw Vossemeer - onder - Schelde-Rijn</locatie_omschrijving>
+		<locatie>VOSMo</locatie>
+		<x>51.585328</x>
+		<y>4.201674</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vlakte v/d Raan</locatie_omschrijving>
+		<locatie>VR</locatie>
+		<x>51.503719</x>
+		<y>3.242052</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vlakte v/d Raan - boven</locatie_omschrijving>
+		<locatie>VRb</locatie>
+		<x>51.503719</x>
+		<y>3.242052</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vlakte v/d Raan - onder</locatie_omschrijving>
+		<locatie>VRo</locatie>
+		<x>51.503719</x>
+		<y>3.242052</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Vuren</locatie_omschrijving>
+		<locatie>VURE</locatie>
+		<x>51.822</x>
+		<y>5.016527</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wielingen 7</locatie_omschrijving>
+		<locatie>W7</locatie>
+		<x>51.41011</x>
+		<y>3.4545</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Waalhaven</locatie_omschrijving>
+		<locatie>WAAL</locatie>
+		<x>51.90222</x>
+		<y>4.43555</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Walsoorden - Westerschelde</locatie_omschrijving>
+		<locatie>WALS</locatie>
+		<x>51.398427</x>
+		<y>4.026206</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Walsoorden - subloc - Westerschelde</locatie_omschrijving>
+		<locatie>WALSb</locatie>
+		<x>51.398427</x>
+		<y>4.026206</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wandelaar</locatie_omschrijving>
+		<locatie>WDL</locatie>
+		<x>51.234726</x>
+		<y>2.924993</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Weesp</locatie_omschrijving>
+		<locatie>WEES</locatie>
+		<x>52.31719</x>
+		<y>5.01944</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Well dorp</locatie_omschrijving>
+		<locatie>WELL</locatie>
+		<x>51.548</x>
+		<y>6.09242</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Westereems - oost</locatie_omschrijving>
+		<locatie>WEO1</locatie>
+		<x>53.62031</x>
+		<y>6.52188</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Werkendam - buiten</locatie_omschrijving>
+		<locatie>WERK</locatie>
+		<x>51.80564</x>
+		<y>4.87711</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wesel - Rhein</locatie_omschrijving>
+		<locatie>WESE</locatie>
+		<x>51.648058</x>
+		<y>6.607215</y>
+		<zoom>11</zoom>
+		<area>ZuidOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Westervoort</locatie_omschrijving>
+		<locatie>WEST</locatie>
+		<x>51.97014</x>
+		<y>5.96214</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Westervoort - IJsseldijkerwaard</locatie_omschrijving>
+		<locatie>WESTV</locatie>
+		<x>51.97014</x>
+		<y>5.96214</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Westereems - west</locatie_omschrijving>
+		<locatie>WEW1</locatie>
+		<x>53.619528</x>
+		<y>6.367933</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Weymouth</locatie_omschrijving>
+		<locatie>WEYM</locatie>
+		<x>50.60861</x>
+		<y>-2.448055</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wilhelminadorp</locatie_omschrijving>
+		<locatie>WHIL</locatie>
+		<x>51.52594</x>
+		<y>3.88361</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Westhinder</locatie_omschrijving>
+		<locatie>WHIN</locatie>
+		<x>51.384443</x>
+		<y>2.444438</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Whitby</locatie_omschrijving>
+		<locatie>WHIT</locatie>
+		<x>54.489998</x>
+		<y>-0.614721</y>
+		<zoom>6</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wick</locatie_omschrijving>
+		<locatie>WICK</locatie>
+		<x>58.440832</x>
+		<y>-3.08639</y>
+		<zoom>5</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wieldrecht</locatie_omschrijving>
+		<locatie>WIED</locatie>
+		<x>51.787782</x>
+		<y>4.627158</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wielingen - noord</locatie_omschrijving>
+		<locatie>WIEL</locatie>
+		<x>51.42725</x>
+		<y>3.412</y>
+		<zoom>7</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wierumergronden</locatie_omschrijving>
+		<locatie>WIER</locatie>
+		<x>53.515828</x>
+		<y>5.958261</y>
+		<zoom>8</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wijdenes</locatie_omschrijving>
+		<locatie>WIJD</locatie>
+		<x>52.63256</x>
+		<y>5.16535</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wijhe</locatie_omschrijving>
+		<locatie>WIJH</locatie>
+		<x>52.387</x>
+		<y>6.126917</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wijk bij Duurstede</locatie_omschrijving>
+		<locatie>WIJK</locatie>
+		<x>51.97419</x>
+		<y>5.29321</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wijk aan Zee</locatie_omschrijving>
+		<locatie>WIJZ</locatie>
+		<x>52.465879</x>
+		<y>4.598668</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Westkapelle</locatie_omschrijving>
+		<locatie>WKAP</locatie>
+		<x>51.5225</x>
+		<y>3.44086</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Westkapelle tijdelijk</locatie_omschrijving>
+		<locatie>WKAPZ</locatie>
+		<x>51.5225</x>
+		<y>3.44086</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Workington</locatie_omschrijving>
+		<locatie>WORK</locatie>
+		<x>54.65083</x>
+		<y>-3.567216</y>
+		<zoom>6</zoom>
+		<area>Noordzee</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Worms - Rhein</locatie_omschrijving>
+		<locatie>WORM</locatie>
+		<x>49.633055</x>
+		<y>8.378328</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wierumerwad 2</locatie_omschrijving>
+		<locatie>WRW2</locatie>
+		<x>53.40796</x>
+		<y>6.06399</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wierumerwad 3</locatie_omschrijving>
+		<locatie>WRW3</locatie>
+		<x>53.40796</x>
+		<y>6.06399</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wierumerwad</locatie_omschrijving>
+		<locatie>WRWD</locatie>
+		<x>53.40796</x>
+		<y>6.06399</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>West-Terschelling</locatie_omschrijving>
+		<locatie>WTER</locatie>
+		<x>53.36278</x>
+		<y>5.21942</y>
+		<zoom>11</zoom>
+		<area>NoordWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Wurzburg - Main</locatie_omschrijving>
+		<locatie>WURZ</locatie>
+		<x>49.783335</x>
+		<y>9.950001</y>
+		<zoom>11</zoom>
+		<area>Onder Nederland</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJmuiden Binnensluiskanaal NAP -1.4m</locatie_omschrijving>
+		<locatie>YB014</locatie>
+		<x>52.47027</x>
+		<y>4.60926</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJmuiden Binnensluiskanaal NAP -6.4m</locatie_omschrijving>
+		<locatie>YB064</locatie>
+		<x>52.47027</x>
+		<y>4.60926</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>IJmuiden Binnensluiskanaal NAP -10.4m</locatie_omschrijving>
+		<locatie>YB104</locatie>
+		<x>52.47027</x>
+		<y>4.60926</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Yerseke - Oosterschelde</locatie_omschrijving>
+		<locatie>YE</locatie>
+		<x>51.50811</x>
+		<y>4.07197</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Yerseke - subloc - Oosterschelde</locatie_omschrijving>
+		<locatie>YEb</locatie>
+		<x>51.50811</x>
+		<y>4.07197</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zaltbommel</locatie_omschrijving>
+		<locatie>ZALT</locatie>
+		<x>51.815154</x>
+		<y>5.244645</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeelandbrug (wind)</locatie_omschrijving>
+		<locatie>ZBWI</locatie>
+		<x>51.6286</x>
+		<y>3.917785</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeelandbrug (wind)</locatie_omschrijving>
+		<locatie>ZBWIb</locatie>
+		<x>51.6286</x>
+		<y>3.917785</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt1</locatie_omschrijving>
+		<locatie>ZD01</locatie>
+		<x>51.951351</x>
+		<y>4.077909</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt2</locatie_omschrijving>
+		<locatie>ZD02</locatie>
+		<x>51.971112</x>
+		<y>4.068454</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt3</locatie_omschrijving>
+		<locatie>ZD03</locatie>
+		<x>51.78636</x>
+		<y>4.625529</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt4</locatie_omschrijving>
+		<locatie>ZD04</locatie>
+		<x>51.865383</x>
+		<y>4.645768</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt5</locatie_omschrijving>
+		<locatie>ZD05</locatie>
+		<x>51.81951</x>
+		<y>4.671136</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt6</locatie_omschrijving>
+		<locatie>ZD06</locatie>
+		<x>51.900793</x>
+		<y>4.227383</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt7</locatie_omschrijving>
+		<locatie>ZD07</locatie>
+		<x>51.939365</x>
+		<y>4.084818</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt8</locatie_omschrijving>
+		<locatie>ZD08</locatie>
+		<x>51.970688</x>
+		<y>4.122317</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt9</locatie_omschrijving>
+		<locatie>ZD09</locatie>
+		<x>51.991677</x>
+		<y>4.008703</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt10</locatie_omschrijving>
+		<locatie>ZD10</locatie>
+		<x>51.937193</x>
+		<y>4.107277</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt11</locatie_omschrijving>
+		<locatie>ZD11</locatie>
+		<x>51.901234</x>
+		<y>4.212942</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt12</locatie_omschrijving>
+		<locatie>ZD12</locatie>
+		<x>51.866075</x>
+		<y>4.324965</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt13</locatie_omschrijving>
+		<locatie>ZD13</locatie>
+		<x>51.884789</x>
+		<y>4.231572</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt14</locatie_omschrijving>
+		<locatie>ZD14</locatie>
+		<x>51.915172</x>
+		<y>4.492255</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt15</locatie_omschrijving>
+		<locatie>ZD15</locatie>
+		<x>51.904536</x>
+		<y>4.544186</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt16</locatie_omschrijving>
+		<locatie>ZD16</locatie>
+		<x>51.896489</x>
+		<y>4.390065</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt17</locatie_omschrijving>
+		<locatie>ZD17</locatie>
+		<x>51.908</x>
+		<y>4.489485</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt18</locatie_omschrijving>
+		<locatie>ZD18</locatie>
+		<x>51.900082</x>
+		<y>4.411229</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt19</locatie_omschrijving>
+		<locatie>ZD19</locatie>
+		<x>51.913828</x>
+		<y>4.499913</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt20</locatie_omschrijving>
+		<locatie>ZD20</locatie>
+		<x>51.899069</x>
+		<y>4.356821</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt21</locatie_omschrijving>
+		<locatie>ZD21</locatie>
+		<x>51.902223</x>
+		<y>4.43109</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt22</locatie_omschrijving>
+		<locatie>ZD22</locatie>
+		<x>51.90348</x>
+		<y>4.429785</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt23</locatie_omschrijving>
+		<locatie>ZD23</locatie>
+		<x>51.895634</x>
+		<y>4.307616</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt24</locatie_omschrijving>
+		<locatie>ZD24</locatie>
+		<x>51.978301</x>
+		<y>4.106498</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt25</locatie_omschrijving>
+		<locatie>ZD25</locatie>
+		<x>51.897828</x>
+		<y>4.291145</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt26</locatie_omschrijving>
+		<locatie>ZD26</locatie>
+		<x>51.871883</x>
+		<y>4.332103</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt27</locatie_omschrijving>
+		<locatie>ZD27</locatie>
+		<x>51.859307</x>
+		<y>4.34105</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeedeltamodel punt28</locatie_omschrijving>
+		<locatie>ZD28</locatie>
+		<x>51.878911</x>
+		<y>4.326927</y>
+		<zoom>11</zoom>
+		<area>MiddenWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeebrugge Dam instrumentatie</locatie_omschrijving>
+		<locatie>ZDI</locatie>
+		<x>51.35419</x>
+		<y>3.17294</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandvliet</locatie_omschrijving>
+		<locatie>ZDVL</locatie>
+		<x>51.34739</x>
+		<y>4.25741</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandkreekdam</locatie_omschrijving>
+		<locatie>ZKD</locatie>
+		<x>51.54197</x>
+		<y>3.86519</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandkreekdam - noord</locatie_omschrijving>
+		<locatie>ZKDN</locatie>
+		<x>51.54197</x>
+		<y>3.86519</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandkreekdam - zuid</locatie_omschrijving>
+		<locatie>ZKDZ</locatie>
+		<x>51.54197</x>
+		<y>3.86519</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandkreekdam 1 - Oosterschelde</locatie_omschrijving>
+		<locatie>ZKO1</locatie>
+		<x>51.54231</x>
+		<y>3.86669</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandkreekdam 2 - Oosterschelde</locatie_omschrijving>
+		<locatie>ZKO2</locatie>
+		<x>51.54231</x>
+		<y>3.86669</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandkreekdam stuurpeil Oosterschelde</locatie_omschrijving>
+		<locatie>ZKO3</locatie>
+		<x>51.54231</x>
+		<y>3.86669</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandkreekdam 1 - Veersemeer</locatie_omschrijving>
+		<locatie>ZKV1</locatie>
+		<x>51.542</x>
+		<y>3.86478</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandkreekdam 2 - Veersemeer</locatie_omschrijving>
+		<locatie>ZKV2</locatie>
+		<x>51.542</x>
+		<y>3.86478</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zandkreekdam stuurpeil Veersemeer</locatie_omschrijving>
+		<locatie>ZKV3</locatie>
+		<x>51.542</x>
+		<y>3.86478</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeebrugge Leopolddok</locatie_omschrijving>
+		<locatie>ZLD</locatie>
+		<x>51.347219</x>
+		<y>3.201667</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zeelandbrug - meetconstructie</locatie_omschrijving>
+		<locatie>ZN</locatie>
+		<x>51.6286</x>
+		<y>3.917785</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zutphen - noord</locatie_omschrijving>
+		<locatie>ZUTP</locatie>
+		<x>52.15336</x>
+		<y>6.18006</y>
+		<zoom>11</zoom>
+		<area>MiddenOost</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zuidwest Akkaert</locatie_omschrijving>
+		<locatie>ZWAK</locatie>
+		<x>51.41286</x>
+		<y>2.7705</y>
+		<zoom>11</zoom>
+		<area>ZuidWest</area>
+	</waterdata>
+	<waterdata>
+		<locatie_omschrijving>Zwartsluis - buiten</locatie_omschrijving>
+		<locatie>ZWBU</locatie>
+		<x>52.637806</x>
+		<y>6.07792</y>
+		<zoom>11</zoom>
+		<area>NoordOost</area>
+	</waterdata>
+</nat>
