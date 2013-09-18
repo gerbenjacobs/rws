@@ -83,7 +83,7 @@ class RWS {
 		$lines = explode("\n", $this->zippables['adm']['data']);
 		foreach ($lines as $line) {
 			if ($line) {
-				$data[] = str_getcsv($line);
+				$data[] = array_map("trim", str_getcsv($line));
 			}
 		}
 		$this->locations = $data;
@@ -94,7 +94,7 @@ class RWS {
 		$lines = explode("\n", $this->zippables['dat']['data']);
 		foreach ($lines as $line) {
 			if ($line) {
-				$data[] = str_getcsv($line);
+				$data[] = array_map("trim", str_getcsv($line));
 			}
 		}
 		$this->measurements = $data;
@@ -130,7 +130,7 @@ class RWS {
 					$time_start->add(new DateInterval('PT10M'));
 					$measurements[] = array(
 						'time' => $time_start->format('c'),
-						'measurement' => trim($measurement),
+						'measurement' => $measurement,
 						'prediction' => ($idx == 5) ? true : false
 					);
 				}
