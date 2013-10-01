@@ -1,9 +1,8 @@
 <?php
-include 'rws.class.php'; 
 
-$rws = new RWS;
-$data = $rws->getData();
+require_once __DIR__ . '/vendor/autoload.php'; // Autoload files using Composer autoload
 
+$rws = new RWS\RWS;
 
 echo '<pre>';
-print_r($data);
+print_r($rws->getData());

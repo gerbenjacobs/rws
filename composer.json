@@ -1,8 +1,8 @@
 {
-    "name": "gerbenjacobs/RWS",
+    "name": "RWS/RWS",
     "type": "library",
     "description": "RWS Library",
-    "keywords": ["rws","RWS","Rijkswaterstaat"],
+    "keywords": ["rws","Rijkswaterstaat"],
     "homepage": "http://github.com/gerbenjacobs/rws",
     "license": "MIT",
     "authors": [
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-0": {
-            "GerbenJacobs": "src/"
+            "RWS": "src/"
         }
     }
 }
