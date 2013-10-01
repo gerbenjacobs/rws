@@ -1,4 +1,4 @@
-<?php namespace GerbenJacobs;
+<?php namespace RWS;
 
 class RWS {
 	private $url_codes = 'http://www.rws.nl/rws/opendata/lmw-par-codes.csv';
@@ -103,7 +103,9 @@ class RWS {
 	
 	private function stringToTime($string) {
 		// Not even strtotime() can handle this.
-		return \DateTime::createFromFormat('j-M-y G:i+', $string, new \DateTimeZone('Europe/Amsterdam'));
+		preg_match("#[0-9]{1,2}:[0-9]{1,2}#", $string, $time);
+		$datetime = date("Y-m-d")." ".$time[0];
+		return \DateTime::createFromFormat('Y-m-d G:i', $datetime, new \DateTimeZone('Europe/Amsterdam'));
 	}
 	
 	private function combineData() {
