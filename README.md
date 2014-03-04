@@ -3,7 +3,7 @@ This is a work in progress, but functioning..
 
 If you want you can work on it, so am I.
 
-#### Rijkswaterstaat?
+#### What is Rijkswaterstaat
 Rijkswaterstaat is the agency in the Netherlands for infrastructure and environment, as such, they measure a lot of the water (mainly rivers) in the country. 
 
 They publish these measurements as open data, however this data is designed for Dutch speaking people and very poorly formatted, that's why I created this library. Making open data really **open**!
@@ -11,6 +11,9 @@ They publish these measurements as open data, however this data is designed for 
 ## What is it?
 So far it only retrieves the current sensors used by Rijkswaterstaat in 10 minute intervals. It contains 5 values as well as a prediction, if available.  
 The rest of the datasets can be found here: http://www.rws.nl/rws/opendata/
+
+## How to use it?
+Clone the repo and run `composer install` to get the autoload functions (Nothing else is needed at the moment). Now open `test.php` in your browser.
 
 ## Results
 It currently returns **458** measurements, mostly waterheight, but also temperature, speed, water debit and amount of chlorine, for example.
