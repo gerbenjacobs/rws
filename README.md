@@ -96,5 +96,3 @@ As you can see, this data still needs a bit of formatting and perhaps some clean
 ## Idea
 The idea is to perhaps one day put all the data in a database so you can query it with an API and have it return JSON.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gerbenjacobs/rws/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
