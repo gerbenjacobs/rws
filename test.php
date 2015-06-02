@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/vendor/autoload.php'; // Autoload files using Composer autoload
 
-$rws = new RWS\RWS;
+$rws = new rws\rws;
 
 echo '<pre>';
-print_r($rws->getData());
+print_r($rws->getData()[0]);

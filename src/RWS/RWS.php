@@ -1,6 +1,6 @@
-<?php namespace RWS;
+<?php namespace rws;
 
-class RWS {
+class rws {
 	private $url_codes = 'http://www.rws.nl/rws/opendata/lmw-par-codes.csv';
 	private $url_locations = 'http://rws.nl/system/externen/meetnet-repository.aspx';
 	private $url_current_measurements = 'https://www.rijkswaterstaat.nl/rws/opendata/meetdata/meetdata.zip';
